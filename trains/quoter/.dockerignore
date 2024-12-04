@@ -1,0 +1,46 @@
+# Exclude development and build artifacts
+**/target/
+**/node_modules/
+**/.shadow-cljs/
+**/.cpcache/
+**/.helix/
+
+# Exclude version control files and directories
+**/.git
+**/.svn
+
+# Exclude editor and IDE-specific files
+**/.vscode/
+**/.idea/
+**/.repl/
+**/*.iml
+
+# Exclude test and documentation files
+**/test/
+**/doc/
+
+# Exclude Leiningen boot directories (if using Leiningen)
+**/.lein-failures
+**/.lein-plugins
+
+# Exclude shadow-cljs caches
+**/.shadow-cljs
+
+# Exclude ClojureScript compilation output
+#**/resources/public/
+
+# Exclude any logs or temporary files
+**/logs/
+**/temp/
+**/log/
+**/tmp/
+
+checker/*
+
+.clj-kondo/*
+.cpcache/*
+.lsp/*
+node_modules/*
+docker-compose.yml
+docker-compose.yaml
+Dockerfile

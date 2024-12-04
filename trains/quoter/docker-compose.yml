@@ -1,0 +1,43 @@
+version: '3.7'
+
+services:
+  quoter:
+    container_name: quoter-backend
+    image: quoter
+    restart: on-failure
+    mem_limit: 1G
+    memswap_limit: 1G
+    cpu_count: 1
+    pids_limit: 128
+    stop_grace_period: 3s
+    environment:
+      DATABASE_USER: ${DATABASE_USER}
+      DATABASE_PASS: ${DATABASE_PASS}
+      DATABASE_HOST: ${DATABASE_HOST}
+      DATABASE_DB: ${DATABASE_DB}
+      PRODUCTION: ${PRODUCTION}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - db
+    ports:
+      - "3000:3000"
+  db:
+    container_name: quoter-db
+    image: postgres
+    restart: always
+    mem_limit: 1G
+    memswap_limit: 1G
+    pids_limit: 128
+    environment:
+      POSTGRES_USER:     ${DATABASE_USER}
+      POSTGRES_PASSWORD: ${DATABASE_PASS}
+      POSTGRES_DB:       ${DATABASE_DB}
+    volumes:
+      - db_data:/var/lib/postgresql/data
+        
+
+volumes:
+  db_data:
+  
