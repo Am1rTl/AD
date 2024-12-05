@@ -1,0 +1,281 @@
+2024-11-18 15:53:46.326923 ║INFO	║ 38325	║   3.622 >> Classtree created: True, found 36 classes
+2024-11-18 15:55:50.005618 ║INFO	║ 38325	║ 127.301 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Exceptions/ModelNotFoundExceptionDecorator.php
+2024-11-18 15:55:50.006095 ║INFO	║ 38325	║ 127.301 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Exceptions/ModelLimitException.php
+2024-11-18 15:55:50.006236 ║INFO	║ 38325	║ 127.301 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Validators/FormIntegrationValidator.php
+2024-11-18 15:55:50.079666 ║INFO	║ 38325	║ 127.375 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Jobs/HandleFormIntegrationsJob.php
+2024-11-18 15:55:50.257481 ║INFO	║ 40178	║   0.016 >> Classtree created: True, found 36 classes
+2024-11-18 15:55:55.601886 ║INFO	║ 40178	║   5.360 >> 2 public methods found
+2024-11-18 15:55:55.602094 ║INFO	║ 40178	║   5.360 >> 0 actions found
+2024-11-18 15:55:55.602210 ║INFO	║ 40178	║   5.361 >> 0 methods to scan in pp mode
+2024-11-18 15:55:55.613810 ║INFO	║ 40179	║   0.017 >> Classtree created: True, found 36 classes
+2024-11-18 15:55:55.703197 ║INFO	║ 40185	║   0.096 >> Classtree created: True, found 36 classes
+2024-11-18 15:55:55.718958 ║INFO	║ 40179	║   0.123 >> 2 public methods found
+2024-11-18 15:55:55.719022 ║INFO	║ 40179	║   0.123 >> 0 actions found
+2024-11-18 15:55:55.719065 ║INFO	║ 40179	║   0.123 >> 0 methods to scan in pp mode
+2024-11-18 15:55:55.722388 ║INFO	║ 40185	║   0.115 >> 2 public methods found
+2024-11-18 15:55:55.722445 ║INFO	║ 40185	║   0.115 >> 0 actions found
+2024-11-18 15:55:55.722487 ║INFO	║ 40185	║   0.115 >> 0 methods to scan in pp mode
+2024-11-18 15:55:55.726580 ║INFO	║ 38325	║ 133.022 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Jobs/HandleIntegrationJob.php
+2024-11-18 15:55:55.757787 ║INFO	║ 38325	║ 133.053 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Enums/FormInputTypes.php
+2024-11-18 15:55:55.763415 ║INFO	║ 38325	║ 133.058 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Console/Commands/FormCleaner.php
+2024-11-18 15:56:01.736066 ║INFO	║ 40379	║   0.102 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:01.762231 ║INFO	║ 40383	║   0.019 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:01.762368 ║INFO	║ 40379	║   0.128 >> 2 public methods found
+2024-11-18 15:56:01.762432 ║INFO	║ 40379	║   0.129 >> 0 actions found
+2024-11-18 15:56:01.762496 ║INFO	║ 40379	║   0.129 >> 0 methods to scan in pp mode
+2024-11-18 15:56:01.767238 ║INFO	║ 40381	║   0.022 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:01.784257 ║INFO	║ 40381	║   0.039 >> 0 public methods found
+2024-11-18 15:56:01.784310 ║INFO	║ 40381	║   0.039 >> 0 actions found
+2024-11-18 15:56:01.784345 ║INFO	║ 40381	║   0.039 >> 0 methods to scan in pp mode
+2024-11-18 15:56:01.784848 ║INFO	║ 40383	║   0.042 >> 1 public methods found
+2024-11-18 15:56:01.784897 ║INFO	║ 40383	║   0.042 >> 0 actions found
+2024-11-18 15:56:01.784935 ║INFO	║ 40383	║   0.042 >> 0 methods to scan in pp mode
+2024-11-18 15:56:01.807237 ║INFO	║ 38325	║ 139.102 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Console/Commands/CreateDebugUser.php
+2024-11-18 15:56:01.826404 ║INFO	║ 38325	║ 139.121 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/MailIntegration.php
+2024-11-18 15:56:01.830687 ║INFO	║ 38325	║ 139.126 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/SendIntegrationException.php
+2024-11-18 15:56:08.269977 ║INFO	║ 40484	║   0.018 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:08.289274 ║INFO	║ 40486	║   0.018 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:08.294366 ║INFO	║ 40484	║   0.042 >> 1 public methods found
+2024-11-18 15:56:08.294417 ║INFO	║ 40484	║   0.042 >> 0 actions found
+2024-11-18 15:56:08.294463 ║INFO	║ 40484	║   0.042 >> 0 methods to scan in pp mode
+2024-11-18 15:56:08.331966 ║INFO	║ 40488	║   0.051 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:08.346318 ║INFO	║ 40486	║   0.075 >> 2 public methods found
+2024-11-18 15:56:08.346380 ║INFO	║ 40486	║   0.075 >> 0 actions found
+2024-11-18 15:56:08.346425 ║INFO	║ 40486	║   0.075 >> 0 methods to scan in pp mode
+2024-11-18 15:56:08.357311 ║INFO	║ 40488	║   0.076 >> 2 public methods found
+2024-11-18 15:56:08.357375 ║INFO	║ 40488	║   0.076 >> 0 actions found
+2024-11-18 15:56:08.357414 ║INFO	║ 40488	║   0.076 >> 0 methods to scan in pp mode
+2024-11-18 15:56:08.374465 ║INFO	║ 38325	║ 145.669 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/ApiHttpIntegration.php
+2024-11-18 15:56:08.391595 ║INFO	║ 38325	║ 145.687 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/IntegrationInterface.php
+2024-11-18 15:56:08.402698 ║INFO	║ 38325	║ 145.697 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Mail/IntegrationMail.php
+2024-11-18 15:56:14.603416 ║INFO	║ 40555	║   0.083 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:14.603707 ║INFO	║ 40553	║   0.086 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:14.623351 ║INFO	║ 40555	║   0.103 >> 2 public methods found
+2024-11-18 15:56:14.623413 ║INFO	║ 40555	║   0.103 >> 0 actions found
+2024-11-18 15:56:14.623459 ║INFO	║ 40555	║   0.103 >> 0 methods to scan in pp mode
+2024-11-18 15:56:14.624807 ║INFO	║ 40553	║   0.107 >> 6 public methods found
+2024-11-18 15:56:14.624854 ║INFO	║ 40553	║   0.107 >> 0 actions found
+2024-11-18 15:56:14.624903 ║INFO	║ 40553	║   0.107 >> 0 methods to scan in pp mode
+2024-11-18 15:56:14.626431 ║INFO	║ 40557	║   0.025 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:14.651535 ║INFO	║ 40557	║   0.051 >> 2 public methods found
+2024-11-18 15:56:14.651604 ║INFO	║ 40557	║   0.051 >> 0 actions found
+2024-11-18 15:56:14.651645 ║INFO	║ 40557	║   0.051 >> 0 methods to scan in pp mode
+2024-11-18 15:56:14.663667 ║INFO	║ 38325	║ 151.959 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/SoUAdminFormInputRequest.php
+2024-11-18 15:56:14.670132 ║INFO	║ 38325	║ 151.965 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/DebugFormsRequest.php
+2024-11-18 15:56:14.693558 ║INFO	║ 38325	║ 151.988 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/SoUAdminFormIntegrationRequest.php
+2024-11-18 15:56:19.878684 ║INFO	║ 40633	║   0.099 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:19.894626 ║INFO	║ 40635	║   0.017 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:19.903620 ║INFO	║ 40633	║   0.124 >> 1 public methods found
+2024-11-18 15:56:19.903682 ║INFO	║ 40633	║   0.124 >> 0 actions found
+2024-11-18 15:56:19.903720 ║INFO	║ 40633	║   0.124 >> 0 methods to scan in pp mode
+2024-11-18 15:56:19.916117 ║INFO	║ 40635	║   0.039 >> 1 public methods found
+2024-11-18 15:56:19.916174 ║INFO	║ 40635	║   0.039 >> 0 actions found
+2024-11-18 15:56:19.916210 ║INFO	║ 40635	║   0.039 >> 0 methods to scan in pp mode
+2024-11-18 15:56:19.935568 ║INFO	║ 40637	║   0.023 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:19.942487 ║INFO	║ 38325	║ 157.237 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/FormSubmitRequest.php
+2024-11-18 15:56:19.956013 ║INFO	║ 38325	║ 157.251 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/FiltredAdminFormRequest.php
+2024-11-18 15:56:19.959082 ║INFO	║ 40637	║   0.047 >> 2 public methods found
+2024-11-18 15:56:19.959137 ║INFO	║ 40637	║   0.047 >> 0 actions found
+2024-11-18 15:56:19.959179 ║INFO	║ 40637	║   0.047 >> 0 methods to scan in pp mode
+2024-11-18 15:56:20.018372 ║INFO	║ 38325	║ 157.313 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/RegisterRequest.php
+2024-11-18 15:56:25.159810 ║INFO	║ 40713	║   0.093 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:25.178795 ║INFO	║ 40717	║   0.018 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:25.182903 ║INFO	║ 40713	║   0.116 >> 1 public methods found
+2024-11-18 15:56:25.182956 ║INFO	║ 40713	║   0.116 >> 0 actions found
+2024-11-18 15:56:25.182992 ║INFO	║ 40713	║   0.116 >> 0 methods to scan in pp mode
+2024-11-18 15:56:25.201713 ║INFO	║ 40717	║   0.041 >> 1 public methods found
+2024-11-18 15:56:25.201779 ║INFO	║ 40717	║   0.041 >> 0 actions found
+2024-11-18 15:56:25.201816 ║INFO	║ 40717	║   0.042 >> 0 methods to scan in pp mode
+2024-11-18 15:56:25.223125 ║INFO	║ 38325	║ 162.518 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/SoUAdminFormRequest.php
+2024-11-18 15:56:25.242459 ║INFO	║ 40719	║   0.019 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:25.255640 ║INFO	║ 38325	║ 162.551 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/LoginRequest.php
+2024-11-18 15:56:25.277032 ║INFO	║ 40719	║   0.054 >> 1 public methods found
+2024-11-18 15:56:25.277093 ║INFO	║ 40719	║   0.054 >> 0 actions found
+2024-11-18 15:56:25.277130 ║INFO	║ 40719	║   0.054 >> 0 methods to scan in pp mode
+2024-11-18 15:56:25.310652 ║INFO	║ 38325	║ 162.605 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/Debug/DebugController.php
+2024-11-18 15:56:29.906532 ║INFO	║ 40779	║   0.018 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:30.001122 ║INFO	║ 40779	║   0.113 >> 1 public methods found
+2024-11-18 15:56:30.001186 ║INFO	║ 40779	║   0.113 >> 0 actions found
+2024-11-18 15:56:30.001219 ║INFO	║ 40779	║   0.113 >> 0 methods to scan in pp mode
+2024-11-18 15:56:30.029011 ║INFO	║ 40781	║   0.020 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:30.045404 ║INFO	║ 38325	║ 167.340 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/Traits/FiltredCollectionTrait.php
+2024-11-18 15:56:30.051882 ║INFO	║ 40781	║   0.043 >> 1 public methods found
+2024-11-18 15:56:30.051934 ║INFO	║ 40781	║   0.043 >> 0 actions found
+2024-11-18 15:56:30.051970 ║INFO	║ 40781	║   0.043 >> 0 methods to scan in pp mode
+2024-11-18 15:56:30.092189 ║INFO	║ 40784	║   0.042 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:30.107952 ║INFO	║ 38325	║ 167.403 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/Traits/EntityLimitTrait.php
+2024-11-18 15:56:30.111449 ║INFO	║ 40784	║   0.061 >> 1 public methods found
+2024-11-18 15:56:30.111501 ║INFO	║ 40784	║   0.061 >> 0 actions found
+2024-11-18 15:56:30.111538 ║INFO	║ 40784	║   0.062 >> 0 methods to scan in pp mode
+2024-11-18 15:56:30.144964 ║INFO	║ 38325	║ 167.440 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormIntegrationController.php
+2024-11-18 15:56:34.468312 ║INFO	║ 40894	║   0.115 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:34.486458 ║INFO	║ 40894	║   0.133 >> 1 public methods found
+2024-11-18 15:56:34.486514 ║INFO	║ 40894	║   0.133 >> 0 actions found
+2024-11-18 15:56:34.486555 ║INFO	║ 40894	║   0.134 >> 0 methods to scan in pp mode
+2024-11-18 15:56:34.596694 ║INFO	║ 40898	║   0.020 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:34.602121 ║INFO	║ 38325	║ 171.897 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormInputController.php
+2024-11-18 15:56:34.620349 ║INFO	║ 40898	║   0.044 >> 1 public methods found
+2024-11-18 15:56:34.620413 ║INFO	║ 40898	║   0.044 >> 0 actions found
+2024-11-18 15:56:34.620470 ║INFO	║ 40898	║   0.044 >> 0 methods to scan in pp mode
+2024-11-18 15:56:34.640150 ║INFO	║ 40900	║   0.019 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:34.683373 ║INFO	║ 40900	║   0.062 >> 3 public methods found
+2024-11-18 15:56:34.683428 ║INFO	║ 40900	║   0.062 >> 0 actions found
+2024-11-18 15:56:34.683487 ║INFO	║ 40900	║   0.063 >> 0 methods to scan in pp mode
+2024-11-18 15:56:34.694736 ║INFO	║ 38325	║ 171.990 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/BaseAdminFormController.php
+2024-11-18 15:56:34.727989 ║INFO	║ 38325	║ 172.023 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormResultController.php
+2024-11-18 15:56:34.894205 ║INFO	║ 40997	║   0.089 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:38.958786 ║INFO	║ 40997	║   4.153 >> 3 public methods found
+2024-11-18 15:56:38.958858 ║INFO	║ 40997	║   4.153 >> 0 actions found
+2024-11-18 15:56:38.958897 ║INFO	║ 40997	║   4.154 >> 0 methods to scan in pp mode
+2024-11-18 15:56:38.990495 ║INFO	║ 38325	║ 176.286 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormController.php
+2024-11-18 15:56:39.069668 ║INFO	║ 41002	║   0.074 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:39.087400 ║INFO	║ 41002	║   0.091 >> 1 public methods found
+2024-11-18 15:56:39.087531 ║INFO	║ 41002	║   0.091 >> 0 actions found
+2024-11-18 15:56:39.087630 ║INFO	║ 41002	║   0.091 >> 0 methods to scan in pp mode
+2024-11-18 15:56:39.102531 ║INFO	║ 41006	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:39.121419 ║INFO	║ 38325	║ 176.416 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/FormController.php
+2024-11-18 15:56:39.124516 ║INFO	║ 41006	║   0.037 >> 2 public methods found
+2024-11-18 15:56:39.124575 ║INFO	║ 41006	║   0.037 >> 0 actions found
+2024-11-18 15:56:39.124618 ║INFO	║ 41006	║   0.038 >> 0 methods to scan in pp mode
+2024-11-18 15:56:39.160921 ║INFO	║ 38325	║ 176.456 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AuthController.php
+2024-11-18 15:56:39.200979 ║INFO	║ 41046	║   0.017 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:43.121292 ║INFO	║ 41046	║   3.937 >> 5 public methods found
+2024-11-18 15:56:43.121376 ║INFO	║ 41046	║   3.937 >> 0 actions found
+2024-11-18 15:56:43.121421 ║INFO	║ 41046	║   3.937 >> 0 methods to scan in pp mode
+2024-11-18 15:56:43.252530 ║INFO	║ 38325	║ 180.547 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/FormInput.php
+2024-11-18 15:56:43.402306 ║INFO	║ 41055	║   0.018 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:43.407582 ║INFO	║ 41053	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:43.422482 ║INFO	║ 41055	║   0.038 >> 7 public methods found
+2024-11-18 15:56:43.422531 ║INFO	║ 41055	║   0.038 >> 0 actions found
+2024-11-18 15:56:43.422582 ║INFO	║ 41055	║   0.038 >> 0 methods to scan in pp mode
+2024-11-18 15:56:43.427683 ║INFO	║ 41053	║   0.036 >> 4 public methods found
+2024-11-18 15:56:43.427736 ║INFO	║ 41053	║   0.036 >> 0 actions found
+2024-11-18 15:56:43.427779 ║INFO	║ 41053	║   0.036 >> 0 methods to scan in pp mode
+2024-11-18 15:56:43.457945 ║INFO	║ 38325	║ 180.753 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/FormIntegration.php
+2024-11-18 15:56:43.466122 ║INFO	║ 38325	║ 180.761 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/User.php
+2024-11-18 15:56:46.626602 ║INFO	║ 41092	║   3.065 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:46.847342 ║INFO	║ 41092	║   3.286 >> 0 public methods found
+2024-11-18 15:56:46.847393 ║INFO	║ 41092	║   3.286 >> 0 actions found
+2024-11-18 15:56:46.847417 ║INFO	║ 41092	║   3.286 >> 0 methods to scan in pp mode
+2024-11-18 15:56:46.954614 ║INFO	║ 38325	║ 184.249 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/Form.php
+2024-11-18 15:56:46.996109 ║INFO	║ 41100	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:47.002713 ║INFO	║ 41102	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:47.015363 ║INFO	║ 41100	║   0.034 >> 0 public methods found
+2024-11-18 15:56:47.015415 ║INFO	║ 41100	║   0.034 >> 0 actions found
+2024-11-18 15:56:47.015439 ║INFO	║ 41100	║   0.034 >> 0 methods to scan in pp mode
+2024-11-18 15:56:47.021572 ║INFO	║ 41102	║   0.034 >> 4 public methods found
+2024-11-18 15:56:47.021628 ║INFO	║ 41102	║   0.034 >> 0 actions found
+2024-11-18 15:56:47.021672 ║INFO	║ 41102	║   0.034 >> 0 methods to scan in pp mode
+2024-11-18 15:56:47.051668 ║INFO	║ 38325	║ 184.347 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/FormResult.php
+2024-11-18 15:56:47.056509 ║INFO	║ 38325	║ 184.351 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Rules/FormInput.php
+2024-11-18 15:56:47.177024 ║INFO	║ 41139	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:51.446421 ║INFO	║ 41139	║   4.285 >> 4 public methods found
+2024-11-18 15:56:51.446558 ║INFO	║ 41139	║   4.285 >> 0 actions found
+2024-11-18 15:56:51.446641 ║INFO	║ 41139	║   4.285 >> 0 methods to scan in pp mode
+2024-11-18 15:56:51.665105 ║INFO	║ 38325	║ 188.883 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Rules/FormIntegrationType.php
+2024-11-18 15:56:51.701531 ║INFO	║ 41147	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:51.712767 ║INFO	║ 41149	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:51.721113 ║INFO	║ 41147	║   0.034 >> 1 public methods found
+2024-11-18 15:56:51.721168 ║INFO	║ 41147	║   0.035 >> 0 actions found
+2024-11-18 15:56:51.721203 ║INFO	║ 41147	║   0.035 >> 0 methods to scan in pp mode
+2024-11-18 15:56:51.726423 ║INFO	║ 41149	║   0.029 >> 1 public methods found
+2024-11-18 15:56:51.726474 ║INFO	║ 41149	║   0.029 >> 0 actions found
+2024-11-18 15:56:51.726509 ║INFO	║ 41149	║   0.029 >> 0 methods to scan in pp mode
+2024-11-18 15:56:51.755888 ║INFO	║ 38325	║ 189.051 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Rules/ExternalUrl.php
+2024-11-18 15:56:51.762795 ║INFO	║ 38325	║ 189.058 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Providers/AppServiceProvider.php
+2024-11-18 15:56:51.876241 ║INFO	║ 41198	║   0.019 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:57.031314 ║INFO	║ 41198	║   5.174 >> 2 public methods found
+2024-11-18 15:56:57.031396 ║INFO	║ 41198	║   5.174 >> 0 actions found
+2024-11-18 15:56:57.031441 ║INFO	║ 41198	║   5.174 >> 0 methods to scan in pp mode
+2024-11-18 15:56:57.280450 ║INFO	║ 38325	║ 194.575 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/routes/api.php
+2024-11-18 15:56:57.372924 ║INFO	║ 41206	║   0.017 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:57.379929 ║INFO	║ 41208	║   0.014 >> Classtree created: True, found 36 classes
+2024-11-18 15:56:57.389121 ║INFO	║ 41206	║   0.033 >> 2 public methods found
+2024-11-18 15:56:57.389176 ║INFO	║ 41206	║   0.033 >> 0 actions found
+2024-11-18 15:56:57.389216 ║INFO	║ 41206	║   0.033 >> 0 methods to scan in pp mode
+2024-11-18 15:56:57.398367 ║INFO	║ 41208	║   0.033 >> 2 public methods found
+2024-11-18 15:56:57.398422 ║INFO	║ 41208	║   0.033 >> 0 actions found
+2024-11-18 15:56:57.398463 ║INFO	║ 41208	║   0.033 >> 0 methods to scan in pp mode
+2024-11-18 15:56:57.425779 ║INFO	║ 38325	║ 194.721 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/routes/console.php
+2024-11-18 15:56:57.434519 ║INFO	║ 38325	║ 194.730 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/jwt.php
+2024-11-18 15:56:57.495149 ║INFO	║ 41258	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:02.341407 ║INFO	║ 41258	║   4.862 >> 0 public methods found
+2024-11-18 15:57:02.341522 ║INFO	║ 41258	║   4.862 >> 0 actions found
+2024-11-18 15:57:02.341553 ║INFO	║ 41258	║   4.862 >> 0 methods to scan in pp mode
+2024-11-18 15:57:02.433413 ║INFO	║ 41265	║   0.015 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:02.444675 ║INFO	║ 38325	║ 199.739 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/mail.php
+2024-11-18 15:57:02.444797 ║INFO	║ 41267	║   0.014 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:02.456969 ║INFO	║ 41265	║   0.038 >> 0 public methods found
+2024-11-18 15:57:02.457024 ║INFO	║ 41265	║   0.038 >> 0 actions found
+2024-11-18 15:57:02.457050 ║INFO	║ 41265	║   0.038 >> 0 methods to scan in pp mode
+2024-11-18 15:57:02.466916 ║INFO	║ 41267	║   0.036 >> 0 public methods found
+2024-11-18 15:57:02.466970 ║INFO	║ 41267	║   0.037 >> 0 actions found
+2024-11-18 15:57:02.466995 ║INFO	║ 41267	║   0.037 >> 0 methods to scan in pp mode
+2024-11-18 15:57:02.494582 ║INFO	║ 38325	║ 199.789 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/auth.php
+2024-11-18 15:57:02.502029 ║INFO	║ 38325	║ 199.797 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/cache.php
+2024-11-18 15:57:08.569408 ║INFO	║ 41329	║   5.840 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:08.589047 ║INFO	║ 41329	║   5.859 >> 0 public methods found
+2024-11-18 15:57:08.589105 ║INFO	║ 41329	║   5.860 >> 0 actions found
+2024-11-18 15:57:08.589133 ║INFO	║ 41329	║   5.860 >> 0 methods to scan in pp mode
+2024-11-18 15:57:08.707441 ║INFO	║ 41332	║   0.016 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:08.718723 ║INFO	║ 38325	║ 206.014 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/app.php
+2024-11-18 15:57:08.721341 ║INFO	║ 41334	║   0.020 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:08.739686 ║INFO	║ 41332	║   0.049 >> 0 public methods found
+2024-11-18 15:57:08.739745 ║INFO	║ 41332	║   0.049 >> 0 actions found
+2024-11-18 15:57:08.739770 ║INFO	║ 41332	║   0.049 >> 0 methods to scan in pp mode
+2024-11-18 15:57:08.743445 ║INFO	║ 41334	║   0.042 >> 0 public methods found
+2024-11-18 15:57:08.743502 ║INFO	║ 41334	║   0.042 >> 0 actions found
+2024-11-18 15:57:08.743531 ║INFO	║ 41334	║   0.042 >> 0 methods to scan in pp mode
+2024-11-18 15:57:08.776275 ║INFO	║ 38325	║ 206.071 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/form_integrations.php
+2024-11-18 15:57:08.782147 ║INFO	║ 38325	║ 206.077 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/filesystems.php
+2024-11-18 15:57:08.990585 ║INFO	║ 41402	║   0.078 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:12.958066 ║INFO	║ 41402	║   4.046 >> 0 public methods found
+2024-11-18 15:57:12.958159 ║INFO	║ 41402	║   4.046 >> 0 actions found
+2024-11-18 15:57:12.958200 ║INFO	║ 41402	║   4.046 >> 0 methods to scan in pp mode
+2024-11-18 15:57:12.975852 ║INFO	║ 41408	║   0.019 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:12.986562 ║INFO	║ 41406	║   0.018 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:13.071285 ║INFO	║ 41408	║   0.114 >> 0 public methods found
+2024-11-18 15:57:13.071378 ║INFO	║ 41408	║   0.114 >> 0 actions found
+2024-11-18 15:57:13.071423 ║INFO	║ 41408	║   0.114 >> 0 methods to scan in pp mode
+2024-11-18 15:57:13.072163 ║INFO	║ 38325	║ 210.367 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/queue.php
+2024-11-18 15:57:13.091814 ║INFO	║ 41406	║   0.123 >> 0 public methods found
+2024-11-18 15:57:13.091943 ║INFO	║ 41406	║   0.123 >> 0 actions found
+2024-11-18 15:57:13.092023 ║INFO	║ 41406	║   0.123 >> 0 methods to scan in pp mode
+2024-11-18 15:57:13.122251 ║INFO	║ 38325	║ 210.417 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/logging.php
+2024-11-18 15:57:13.137934 ║INFO	║ 38325	║ 210.433 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/database.php
+2024-11-18 15:57:13.282441 ║INFO	║ 41452	║   0.016 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:18.785538 ║INFO	║ 41452	║   5.519 >> 0 public methods found
+2024-11-18 15:57:18.785703 ║INFO	║ 41452	║   5.519 >> 0 actions found
+2024-11-18 15:57:18.785786 ║INFO	║ 41452	║   5.519 >> 0 methods to scan in pp mode
+2024-11-18 15:57:18.892301 ║INFO	║ 41455	║   0.089 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:18.904306 ║INFO	║ 38325	║ 216.199 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/bootstrap/providers.php
+2024-11-18 15:57:18.907202 ║INFO	║ 41457	║   0.017 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:18.923700 ║INFO	║ 41455	║   0.120 >> 0 public methods found
+2024-11-18 15:57:18.923756 ║INFO	║ 41455	║   0.120 >> 0 actions found
+2024-11-18 15:57:18.923782 ║INFO	║ 41455	║   0.120 >> 0 methods to scan in pp mode
+2024-11-18 15:57:18.924036 ║INFO	║ 41457	║   0.034 >> 0 public methods found
+2024-11-18 15:57:18.924082 ║INFO	║ 41457	║   0.034 >> 0 actions found
+2024-11-18 15:57:18.924108 ║INFO	║ 41457	║   0.034 >> 0 methods to scan in pp mode
+2024-11-18 15:57:18.968006 ║INFO	║ 38325	║ 216.263 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/public/index.php
+2024-11-18 15:57:18.968068 ║INFO	║ 38325	║ 216.263 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/bootstrap/app.php
+2024-11-18 15:57:24.819687 ║INFO	║ 41521	║   5.719 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:24.847678 ║INFO	║ 41521	║   5.747 >> 0 public methods found
+2024-11-18 15:57:24.847743 ║INFO	║ 41521	║   5.747 >> 0 actions found
+2024-11-18 15:57:24.847780 ║INFO	║ 41521	║   5.747 >> 0 methods to scan in pp mode
+2024-11-18 15:57:24.962300 ║INFO	║ 41527	║   0.021 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:24.979514 ║INFO	║ 41529	║   0.020 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:24.979506 ║INFO	║ 38325	║ 222.274 >> working on /home/amir/CTF/MCTF/2024/AD/easy_forms/src/artisan
+2024-11-18 15:57:24.995173 ║INFO	║ 41527	║   0.054 >> 0 public methods found
+2024-11-18 15:57:24.995228 ║INFO	║ 41527	║   0.054 >> 0 actions found
+2024-11-18 15:57:24.995253 ║INFO	║ 41527	║   0.054 >> 0 methods to scan in pp mode
+2024-11-18 15:57:24.997603 ║INFO	║ 41529	║   0.038 >> pvf called file_exists('/home/amir/CTF/MCTF/2024/AD/easy_forms/src/public/../storage/framework/maintenance.php')
+2024-11-18 15:57:24.998199 ║INFO	║ 41529	║   0.038 >> arg#0 payloadable: False
+2024-11-18 15:57:25.011640 ║INFO	║ 41529	║   0.052 >> 0 public methods found
+2024-11-18 15:57:25.011701 ║INFO	║ 41529	║   0.052 >> 0 actions found
+2024-11-18 15:57:25.011725 ║INFO	║ 41529	║   0.052 >> 0 methods to scan in pp mode
+2024-11-18 15:57:25.259885 ║INFO	║ 41590	║   0.087 >> Classtree created: True, found 36 classes
+2024-11-18 15:57:27.446541 ║INFO	║ 41590	║   2.274 >> pvf called exit(Application->configure('/home/amir/CTF/MCTF/2024/AD/easy_forms/src')->withRouting('/home/amir/CTF/MCTF/2024/AD/easy_forms/src/bootstrap/../routes/console.php', '/home/amir/CTF/MCTF/2024/AD/easy_forms/src/bootstrap/../routes/api.php', '/api')->withMiddleware(...)->withExceptions(...)->create()->handleCommand(...))
+2024-11-18 15:57:27.448374 ║INFO	║ 41590	║   2.276 >> arg#0 payloadable: False
+2024-11-18 15:57:27.448508 ║INFO	║ 41590	║   2.276 >> 0 public methods found
+2024-11-18 15:57:27.448539 ║INFO	║ 41590	║   2.276 >> 0 actions found
+2024-11-18 15:57:27.448563 ║INFO	║ 41590	║   2.276 >> 0 methods to scan in pp mode

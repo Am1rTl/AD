@@ -1,0 +1,50 @@
+<main role="main" class="inner cover">            
+  <p class="lead"><h6></h6></p>
+  <form class="form-signin">
+    <div class="text-center mb-4">
+      <h1 class="h3 mb-3 font-weight-normal">Оформление билета</h1>
+    </div>
+    <div class="form-label-group">
+      <input type="text" id="fio" class="form-control" placeholder="ФИО:" required>
+      <label for="FIO"></label>
+    </div>
+    <div class="form-label-group">
+      <input type="date" id="date" class="form-control" placeholder="Дата:" required>
+      <label for="date"></label>
+    </div>
+    <div class="form-label-group">
+      <input type="text" id="secret" class="form-control" placeholder="Secret:" required>
+      <label for="secret"></label>
+    </div>
+    <div class="checkbox mb-3">
+      <label>
+      </label>
+    </div>
+    <button id="senduserinfobutton" class="btn btn-lg btn-warning btn-block" type="submit">Оформить</button>
+  </form>
+</main>
+
+<script>
+  document.getElementById('senduserinfobutton').addEventListener('click', async function(event) {
+    event.preventDefault();
+    const fio = document.getElementById('fio').value;
+    const date = document.getElementById('date').value;
+    const secret = document.getElementById('secret').value;
+    const json = JSON.stringify({
+      fio: fio,
+      date: date,
+      secret_word: secret
+    });
+    const serverUrl = `${location.origin}/api/ticket/buy-ticket`;
+    fetch(serverUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      credentials: "include",
+      body: json
+    }).then(response => response.json()).then(data => {
+        window.location = `${location.origin}/ticket?id=${data.ticketId}`;
+    })
+  });
+</script>

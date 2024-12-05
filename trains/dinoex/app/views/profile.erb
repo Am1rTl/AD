@@ -1,0 +1,77 @@
+<main role="main" class="inner cover">
+  <br>
+  <div class="container">
+    <div class="">
+      <h4 class="mb-3">Профиль</h4>
+      <form class="needs-validation" novalidate>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="username">Username</label>
+            <input type="text" class="form-control" id="username" placeholder="Username:" value="<%= current_user.username %>" required>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" id="password" placeholder="Password:" value="<%= current_user.password %>" required>
+          </div>
+        </div>
+        <div class="mb-3">
+          <label for="secret">Secret</label>
+          <input type="text" class="form-control" id="secret" placeholder="Secret:" value="<%= current_user.secret %>" required>
+        </div>
+        <div class="mb-3">
+          <label for="fio">ФИО <span class="text-muted"></span></label>
+          <input type="text" class="form-control" id="fio" placeholder="ФИО:" value="<%= current_user.fio %>">
+        </div>
+        <hr class="mb-4">
+        <button id="senduserinfobutton" class="btn btn-warning btn-lg btn-block" type="submit">Изменить информаицю</button>
+      </form>
+    </div>
+  </div>
+  <br>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">ФИО</th>
+        <th scope="col">Дата</th>
+        <th scope="col">Секретное слово</th>
+      </tr>
+    </thead>
+    <tbody>
+    <% Ticket.get_user_tickets(current_user.username).each do |ticket| %>
+      <%= erb :"partial/ticket", :locals => { :ticket => ticket } %>
+    <% end %>
+    </tbody>
+  </table>
+  </div>
+</main>
+
+<script>
+  document.getElementById('senduserinfobutton').addEventListener('click', async function(event) {
+    event.preventDefault();
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+    const secret = document.getElementById('secret').value;
+    const fio = document.getElementById('fio').value;
+    const json = JSON.stringify({
+      username: username,
+      password: password,
+      secret: secret,
+      fio: fio
+    });
+    const serverUrl = `${location.origin}/api/users/profile-edit`;
+    fetch(serverUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: json
+    }).then((result)=>{
+      if (result.status === 200) {
+        window.location = `${location.origin}/profile`;
+      } else if (result.status === 500) {
+        alert("Error")
+      }
+    })
+  });
+</script>    

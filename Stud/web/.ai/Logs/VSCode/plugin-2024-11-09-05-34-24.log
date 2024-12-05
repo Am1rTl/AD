@@ -1,0 +1,15 @@
+[11/9/2024, 5:34:24 AM] info: Logging was started to file.
+[11/9/2024, 5:34:24 AM] info: Start application inspector initialization
+[11/9/2024, 5:34:24 AM] info: Hide developer mode UI
+[11/9/2024, 5:34:24 AM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"/home/amir/application-inspector-analyzer","applicationResourcesFolderPath":"/home/amir/application-inspector-analyzer","scanTargetFolderPath":"/home/amir/CTF/MCTF/2024/Stud/web","isDebugging":false,"logLevel":{"q8_1":"Error","r8_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"/home/amir/CTF/MCTF/2024/Stud/web/.ai/Logs/Infrastructure/2024-11-09-05-34-24","tipsFoundNotificationThreshold":1000,"similarIssuesFoundNotificationThreshold":1000,"applicationLocalDataFolderPath":"/home/amir/CTF/MCTF/2024/Stud/web/.ai"}
+[11/9/2024, 5:34:24 AM] info: Start infrastructure initialization
+[11/9/2024, 5:34:25 AM] info: Infrastructure was started
+[11/9/2024, 5:34:26 AM] info: Initialize aie integration isn't initialized
+[11/9/2024, 5:34:26 AM] info: Infrastructure was initialized
+[11/9/2024, 5:34:26 AM] info: Infrastructure Installer was deleted
+[11/9/2024, 5:34:26 AM] info: Clean up logs files was started
+[11/9/2024, 5:34:26 AM] info: Clean up logs files was finished
+[11/9/2024, 5:34:27 AM] info: Project was created. Id: 0c84c3d2-1344-49d5-84a6-803c8cf8ccc6
+[11/9/2024, 5:34:32 AM] info: Start scan command handled
+[11/9/2024, 5:37:14 AM] info: Scan done message handled
+[11/9/2024, 5:37:14 AM] info: Scan was finished with errors. Errors will be output to the output channel.

@@ -1,0 +1,20 @@
+services:
+  redis:
+    image: redis
+  backend:
+    restart: always
+    build: ./backend
+    environment:
+      - REDIS_HOST=redis
+      - TOKEN=REDACTED
+  nginx:
+    restart: always
+    build: ./nginx
+    ports:
+      - 8008:80
+  frontend:
+    build: ./frontend
+    environment:
+      - TOKEN=REDACTED
+      - BACKEND_URL=http://backend:5001
+      - FLAG=mctf{dummy}

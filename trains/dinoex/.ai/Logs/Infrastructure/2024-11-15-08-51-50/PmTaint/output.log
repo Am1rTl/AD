@@ -1,0 +1,27 @@
+ERROR ParsingException in "/home/amir/CTF/MCTF/2024/AD/dinoex/app/public/js/bootstrap.min.js": Esprima.ParserException: Line 54: Unexpected token ILLEGAL
+   at Esprima.Scanner.ThrowUnexpectedToken(String message)
+   at Esprima.Scanner.GetComplexIdentifier()
+   at Esprima.Scanner.ScanIdentifier(Boolean allowEscapes)
+   at Esprima.Scanner.Lex(LexOptions& options)
+   at PT.PM.JavaScriptParseTreeUst.JavaScriptEsprimaParser.Parse(TextFile sourceFile, TextFile parseUnit, TimeSpan& parseTimeSpan, Boolean asModule).
+
+AI.Taint.CLangs version:       not found or not supported
+AI.Taint version:              2.2.3.0 (03/19/2024 10:51:00)
+OS:                            Unix 6.11.2.64
+Config:                        RELEASE no debugger, no obfuscation
+Peak virtual/working set:      3968.3515625 / 196.75390625 MB, 64-bit
+
+Scan path or file:             /home/amir/CTF/MCTF/2024/AD/dinoex
+Thread count:                  4
+Finish date:                   11/15/2024 08:52:35
+Matches count:                 8 (0 PM + 8 Taint; 0 suppressed)
+Files count:                   1
+Lines/chars count:             1531 / 89535
+Patterns count:                872 (218 PM + 654 Taint)
+File time ratio:               00.05%
+ParseTree time ratio:          00.89%
+Ust time ratio:                00.35%
+Match time ratio:              92.66%
+Pattern time ratio:            06.05%
+
+Time elapsed:                  00:17.572

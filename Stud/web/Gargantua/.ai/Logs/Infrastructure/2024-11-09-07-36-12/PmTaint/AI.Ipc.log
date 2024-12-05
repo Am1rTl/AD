@@ -1,0 +1,36 @@
+Send message {Progress, MessagePack, 4 bytes}
+Send message {IgnoredNodes, MessagePack, 533 bytes}
+Send message {NodeScanStatus, MessagePack, 62 bytes}
+Send message {NodeScanStatus, MessagePack, 61 bytes}
+Send message {NodeScanStatus, MessagePack, 60 bytes}
+Send message {NodeScanStatus, MessagePack, 63 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 61 bytes}
+Send message {NodeScanStatus, MessagePack, 66 bytes}
+Send message {IssueDetected, MessagePack, 307 bytes}
+Send message {IssueDetected, MessagePack, 267 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 63 bytes}
+Send message {NodeScanStatus, MessagePack, 79 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 79 bytes}
+Send message {NodeScanStatus, MessagePack, 78 bytes}
+Send message {IssueDetected, MessagePack, 352 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 66 bytes}
+Send message {NodeScanStatus, MessagePack, 78 bytes}
+Send message {NodeScanStatus, MessagePack, 76 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 76 bytes}
+Send message {IssueDetected, MessagePack, 612 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 60 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 62 bytes}
+Send message {ScanDone, ByteArray, 0 bytes}
+Elapsed time of the 'Scan' stage: 00:00:04.7388928
+Send message {Progress, MessagePack, 4 bytes}
+Send message {FinalizeDone, ByteArray, 0 bytes}
+Elapsed time of the 'Finalize' stage: 00:00:00.0034768
+Core was stopped due to an error

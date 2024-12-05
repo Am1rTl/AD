@@ -1,0 +1,15 @@
+[11/9/2024, 7:36:12 AM] info: Logging was started to file.
+[11/9/2024, 7:36:12 AM] info: Start application inspector initialization
+[11/9/2024, 7:36:12 AM] info: Hide developer mode UI
+[11/9/2024, 7:36:12 AM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"/home/amir/application-inspector-analyzer","applicationResourcesFolderPath":"/home/amir/application-inspector-analyzer","scanTargetFolderPath":"/home/amir/CTF/MCTF/2024/Stud/web/Gargantua","isDebugging":false,"logLevel":{"q8_1":"Error","r8_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"/home/amir/CTF/MCTF/2024/Stud/web/Gargantua/.ai/Logs/Infrastructure/2024-11-09-07-36-12","tipsFoundNotificationThreshold":1000,"similarIssuesFoundNotificationThreshold":1000,"applicationLocalDataFolderPath":"/home/amir/CTF/MCTF/2024/Stud/web/Gargantua/.ai"}
+[11/9/2024, 7:36:12 AM] info: Start infrastructure initialization
+[11/9/2024, 7:36:12 AM] info: Infrastructure was started
+[11/9/2024, 7:36:13 AM] info: Initialize aie integration isn't initialized
+[11/9/2024, 7:36:13 AM] info: Infrastructure was initialized
+[11/9/2024, 7:36:13 AM] info: Infrastructure Installer was deleted
+[11/9/2024, 7:36:14 AM] info: Clean up logs files was started
+[11/9/2024, 7:36:14 AM] info: Clean up logs files was finished
+[11/9/2024, 7:36:14 AM] info: Project was created. Id: bdf43d6c-3b9c-4f4b-95b4-c7799e506863
+[11/9/2024, 7:36:19 AM] info: Start scan command handled
+[11/9/2024, 7:37:02 AM] info: Scan done message handled
+[11/9/2024, 7:37:03 AM] info: Scan was finished with errors. Errors will be output to the output channel.
