@@ -1,0 +1,35 @@
+<main role="main" class="inner cover">
+  <p class="lead"><h6></h6></p>
+  <form class="form-signin">
+    <div class="text-center mb-4">
+      <h1 class="h3 mb-3 font-weight-normal">Информация о билете</h1>
+    </div>
+    <div class="form-label-group">
+      <input type="text" id="FIO" disabled class="form-control" value="ФИО: " required>
+      <label for="FIO"></label>
+    </div>
+    <div class="form-label-group">
+      <input type="date" id="date" disabled class="form-control" value="Дата: " required>
+      <label for="date"></label>
+    </div>
+    <div class="form-label-group">
+      <input type="text" disabled id="secret" class="form-control" value="Секретное слово: " required>
+      <label for="secret"></label>
+    </div>
+    <div class="checkbox mb-3">
+      <label>
+      </label>
+    </div>
+  </form>
+</main>
+
+<script>
+  const serverUrl = `${location.origin}/api/ticket/view-ticket?ticketId=<%= id %>`;
+  fetch(serverUrl)
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('FIO').value = data[0].fio;
+      document.getElementById('date').value = data[0].date_string;
+      document.getElementById('secret').value = data[0].secret_word;
+    })
+</script>

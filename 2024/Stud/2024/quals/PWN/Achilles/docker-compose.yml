@@ -1,0 +1,15 @@
+version: "3"
+services:
+  achilles:
+    build: .
+    restart: always
+    container_name: achilles
+    environment:
+      - FLAG=${FLAG}
+    ports:
+      - "4444:4444"
+    healthcheck:
+      test: ["CMD", "socat", "TCP4:localhost:4444", "-"]
+      interval: 57s
+      timeout: 3s
+      retries: 1

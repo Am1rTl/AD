@@ -1,0 +1,73 @@
+2024-11-15 14:16:26.556454 ║INFO	║ 38874	║   0.000 >> process AI3 init
+2024-11-15 14:16:27.120506 ║INFO	║ 38874	║   0.564 >> Preprocessing started
+2024-11-15 14:16:29.156440 ║INFO	║ 38874	║   2.600 >> Preprocessing finished
+2024-11-15 14:16:35.973412 ║INFO	║ 38874	║   9.417 >> Scan started
+2024-11-15 14:16:35.973832 ║INFO	║ 38874	║   0.000 >> worker.run started
+2024-11-15 14:16:35.973988 ║INFO	║ 38874	║   0.000 >> worker.run started
+2024-11-15 14:16:35.974293 ║INFO	║ 38874	║   0.000 >> worker.run started
+2024-11-15 14:16:35.974397 ║INFO	║ 38874	║   0.001 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.2146c3c.eot
+2024-11-15 14:16:35.974775 ║INFO	║ 38874	║   0.001 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.1fcc362.ttf
+2024-11-15 14:16:35.977149 ║INFO	║ 38874	║   0.003 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.ec024da.woff2
+2024-11-15 14:16:36.017822 ║INFO	║ 38874	║   0.044 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.e55a20c.woff
+2024-11-15 14:16:47.952727 ║INFO	║ 38874	║  11.979 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Exceptions/ModelNotFoundExceptionDecorator.php
+2024-11-15 14:16:48.307496 ║INFO	║ 38874	║  12.334 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Exceptions/ModelLimitException.php
+2024-11-15 14:16:48.406881 ║INFO	║ 38874	║  12.433 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Validators/FormIntegrationValidator.php
+2024-11-15 14:16:48.740075 ║INFO	║ 38874	║  12.766 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Jobs/HandleFormIntegrationsJob.php
+2024-11-15 14:16:48.841930 ║INFO	║ 38874	║  12.868 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Jobs/HandleIntegrationJob.php
+2024-11-15 14:16:48.995204 ║INFO	║ 38874	║  13.022 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Enums/FormInputTypes.php
+2024-11-15 14:16:49.262484 ║INFO	║ 38874	║  13.289 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Console/Commands/FormCleaner.php
+2024-11-15 14:16:49.283949 ║INFO	║ 38874	║  13.310 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Console/Commands/CreateDebugUser.php
+2024-11-15 14:16:49.554716 ║INFO	║ 38874	║  13.581 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/MailIntegration.php
+2024-11-15 14:16:49.683612 ║INFO	║ 38874	║  13.710 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/SendIntegrationException.php
+2024-11-15 14:16:49.712227 ║INFO	║ 38874	║  13.739 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/ApiHttpIntegration.php
+2024-11-15 14:16:50.062082 ║INFO	║ 38874	║  14.088 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/FormIntegrations/IntegrationInterface.php
+2024-11-15 14:16:50.139624 ║INFO	║ 38874	║  14.166 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Mail/IntegrationMail.php
+2024-11-15 14:16:50.228335 ║INFO	║ 38874	║  14.255 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/SoUAdminFormInputRequest.php
+2024-11-15 14:16:50.575972 ║INFO	║ 38874	║  14.602 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/DebugFormsRequest.php
+2024-11-15 14:16:50.631227 ║INFO	║ 38874	║  14.658 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/SoUAdminFormIntegrationRequest.php
+2024-11-15 14:16:50.676353 ║INFO	║ 38874	║  14.703 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/FormSubmitRequest.php
+2024-11-15 14:16:51.003809 ║INFO	║ 38874	║  15.030 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/FiltredAdminFormRequest.php
+2024-11-15 14:16:51.087475 ║INFO	║ 38874	║  15.114 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/RegisterRequest.php
+2024-11-15 14:16:51.114837 ║INFO	║ 38874	║  15.141 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/SoUAdminFormRequest.php
+2024-11-15 14:16:51.480884 ║INFO	║ 38874	║  15.507 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Requests/LoginRequest.php
+2024-11-15 14:16:51.603246 ║INFO	║ 38874	║  15.630 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/Debug/DebugController.php
+2024-11-15 14:16:51.628684 ║INFO	║ 38874	║  15.655 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/Traits/FiltredCollectionTrait.php
+2024-11-15 14:16:51.910226 ║INFO	║ 38874	║  15.937 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/Traits/EntityLimitTrait.php
+2024-11-15 14:16:51.939937 ║INFO	║ 38874	║  15.966 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormIntegrationController.php
+2024-11-15 14:16:51.970812 ║INFO	║ 38874	║  15.997 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormInputController.php
+2024-11-15 14:16:52.245448 ║INFO	║ 38874	║  16.272 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/BaseAdminFormController.php
+2024-11-15 14:16:52.314861 ║INFO	║ 38874	║  16.341 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormResultController.php
+2024-11-15 14:16:52.320347 ║INFO	║ 38874	║  16.347 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AdminFormController.php
+2024-11-15 14:16:52.561747 ║INFO	║ 38874	║  16.588 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/FormController.php
+2024-11-15 14:16:52.648300 ║INFO	║ 38874	║  16.675 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Http/Controllers/AuthController.php
+2024-11-15 14:16:52.768005 ║INFO	║ 38874	║  16.794 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/FormInput.php
+2024-11-15 14:16:52.914672 ║INFO	║ 38874	║  16.941 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/FormIntegration.php
+2024-11-15 14:16:53.004223 ║INFO	║ 38874	║  17.031 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/User.php
+2024-11-15 14:16:53.298405 ║INFO	║ 38874	║  17.325 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/Form.php
+2024-11-15 14:16:53.356721 ║INFO	║ 38874	║  17.383 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Models/FormResult.php
+2024-11-15 14:16:53.460779 ║INFO	║ 38874	║  17.487 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Rules/FormInput.php
+2024-11-15 14:16:53.783639 ║INFO	║ 38874	║  17.810 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Rules/FormIntegrationType.php
+2024-11-15 14:16:53.821545 ║INFO	║ 38874	║  17.848 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Rules/ExternalUrl.php
+2024-11-15 14:16:54.012066 ║INFO	║ 38874	║  18.038 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Providers/AppServiceProvider.php
+2024-11-15 14:16:54.240169 ║INFO	║ 38874	║  18.267 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/routes/api.php
+2024-11-15 14:16:54.366517 ║INFO	║ 38874	║  18.393 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/routes/console.php
+2024-11-15 14:16:54.555104 ║INFO	║ 38874	║  18.581 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/jwt.php
+2024-11-15 14:16:54.702753 ║INFO	║ 38874	║  18.729 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/mail.php
+2024-11-15 14:16:54.863623 ║INFO	║ 38874	║  18.890 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/auth.php
+2024-11-15 14:16:55.092793 ║INFO	║ 38874	║  19.119 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/cache.php
+2024-11-15 14:16:55.203315 ║INFO	║ 38874	║  19.230 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/app.php
+2024-11-15 14:16:55.369809 ║INFO	║ 38874	║  19.396 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/form_integrations.php
+2024-11-15 14:16:55.614411 ║INFO	║ 38874	║  19.641 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/filesystems.php
+2024-11-15 14:16:55.780800 ║INFO	║ 38874	║  19.807 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/queue.php
+2024-11-15 14:16:55.886393 ║INFO	║ 38874	║  19.913 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/logging.php
+2024-11-15 14:16:56.167112 ║INFO	║ 38874	║  20.193 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/config/database.php
+2024-11-15 14:16:56.261770 ║INFO	║ 38874	║  20.288 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/bootstrap/providers.php
+2024-11-15 14:16:56.413467 ║INFO	║ 38874	║  20.440 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/bootstrap/app.php
+2024-11-15 14:16:56.647135 ║INFO	║ 38874	║  20.674 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/public/index.php
+2024-11-15 14:16:56.795417 ║INFO	║ 38874	║  20.822 >> process file /home/amir/CTF/MCTF/2024/AD/easy_forms/src/artisan
+2024-11-15 14:16:57.974214 ║INFO	║ 38874	║  22.000 >> worker.run finished -3
+2024-11-15 14:16:58.250701 ║INFO	║ 38874	║  22.277 >> worker.run finished -3
+2024-11-15 14:16:58.291312 ║INFO	║ 38874	║  22.318 >> worker.run finished -3
+2024-11-15 14:16:58.291806 ║INFO	║ 38874	║  31.735 >> Scan finished
+2024-11-15 14:17:42.844463 ║INFO	║ 38874	║  76.288 >> Finalize
+2024-11-15 14:17:42.844824 ║INFO	║ 38874	║  76.288 >> Finalize done

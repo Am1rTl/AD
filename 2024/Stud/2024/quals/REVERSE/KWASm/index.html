@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>KWASm</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <style>
+
+    </style>
+</head>
+<body style="background-image: url('kwas.jpg')">
+
+<div class="d-flex align-items-center justify-content-center vh-100">
+    <form>
+        <div class="form-control-lg">
+            <div class="input-group input-group-lg">
+                <span class="input-group-text">Flag:</span>
+                <input id="flag-input" type="text" class="form-control" placeholder="mctf{test_flag}" onkeypress="return event.keyCode != 13;">
+                <button id="check-button" class="btn btn-primary" type="button">Check</button>
+            </div>
+        </div>
+    </form>
+
+</div>
+
+<script src="kwasm.js"></script>
+</body>
+
+<script type="application/javascript" >
+    const unhandledError = (event, error) => {
+        if (error instanceof WebAssembly.CompileError) {
+            document.getElementById("warning").style.display="initial";
+            alert("Error loading wasm stuff. Make sure you are using a modern browser (Chrome 119+ or Firefox 120+ should be fine)");
+        }
+    }
+    addEventListener("error", (event) => unhandledError(event, event.error));
+    addEventListener("unhandledrejection", (event) => unhandledError(event, event.reason));
+</script>
+
+</html>

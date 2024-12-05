@@ -1,0 +1,165 @@
+05:34:36.546  ERROR  @JavaScriptProcessor: Error "UnknownError"(null) was received with message:
+
+  /home/amir/CTF/MCTF/2024/Stud/web has no /home/amir/CTF/MCTF/2024/Stud/web/package.json to restore JS packages.
+
+05:36:58.766  ERROR  @DependencyCheckProcessor: "DependencyCheck" core process was suddenly interrupted... Start parameters: "-l 40 -z -i "/home/amir/application-inspector-analyzer/utils/jdk1.11/bin/java" -jar "/home/amir/application-inspector-analyzer/utils/dependencyCheck/dependency-check-ai-core.jar" --connection-type "Socket" -p "43689" -log-level "Error" --logs-dir "/home/amir/CTF/MCTF/2024/Stud/web/.ai/Logs/Infrastructure/2024-11-09-05-34-24/DependencyCheck"".
+––– details ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+System.Exception: "DependencyCheck" core process was stopped. Exit code 0.
+   at Processing.Processors.MessageProcessorBase.ProcessExitCodeAsync(Int32 exitCode, String arguments)
+   at Processing.Processors.MessageProcessorBase.<>c__DisplayClass74_0.<<ObserveJobWork>b__0>d.MoveNext()
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+05:36:58.772  ERROR  @DependencyCheckProcessor: Stopping work of DependencyCheckProcessor...
+––– details ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+System.Exception: "DependencyCheck" core process was stopped. Exit code 0.
+   at Processing.Processors.MessageProcessorBase.ProcessExitCodeAsync(Int32 exitCode, String arguments)
+   at Processing.Processors.MessageProcessorBase.<>c__DisplayClass74_0.<<ObserveJobWork>b__0>d.MoveNext()
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+05:37:07.234  ERROR  @DependencyCheckProcessor: Error in "DependencyCheck" core finalization stage
+––– details ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'MessageHandler'.
+   at IPC.Services.MessageHandler`1.GetAsync(THeader requestHeader, THeader responseHeader, ArraySegment`1 data)
+   at Processing.Processors.Handlers.ScanMessageHandler`1.FinalizeAsync()
+   at Processing.Processors.MessageProcessorBase.Processing.Processors.IProcessorStager.FinalizeAsync()
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+05:37:07.362  ERROR  Some nodes has invalid scan status:
+
+  ./backend/blueprints/note.py
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/blueprints/note.py
+    DependencyCheck
+  ./backend/blueprints/auth.py
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/blueprints/auth.py
+    DependencyCheck
+  ./backend/blueprints/user.py
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/blueprints/user.py
+    DependencyCheck
+  ./backend/requirements.txt
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/requirements.txt
+    DependencyCheck
+  ./backend/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/Dockerfile
+    DependencyCheck
+  ./backend/db.py
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/db.py
+    DependencyCheck
+  ./backend/pyrightconfig.json
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/pyrightconfig.json
+    DependencyCheck
+  ./backend/main.py
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/main.py
+    DependencyCheck
+  ./backend/models.py
+  /home/amir/CTF/MCTF/2024/Stud/web/backend/models.py
+    DependencyCheck
+  ./nginx/default.conf
+  /home/amir/CTF/MCTF/2024/Stud/web/nginx/default.conf
+    DependencyCheck
+  ./nginx/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/web/nginx/Dockerfile
+    DependencyCheck
+  ./Loose Lottery/brute.py
+  /home/amir/CTF/MCTF/2024/Stud/web/Loose Lottery/brute.py
+    DependencyCheck
+  ./frontend/routes/auth.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/auth.js
+    DependencyCheck
+  ./frontend/routes/note.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/note.js
+    DependencyCheck
+  ./frontend/routes/user.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/user.js
+    DependencyCheck
+  ./frontend/frontend/src/assets/react.svg
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/assets/react.svg
+    DependencyCheck
+  ./frontend/frontend/src/components/codeEditor.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/codeEditor.jsx
+    DependencyCheck
+  ./frontend/frontend/src/components/paste.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/paste.jsx
+    DependencyCheck
+  ./frontend/frontend/src/components/header.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/header.jsx
+    DependencyCheck
+  ./frontend/frontend/src/views/pastePage.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/views/pastePage.jsx
+    DependencyCheck
+  ./frontend/frontend/src/views/loginPage.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/views/loginPage.jsx
+    DependencyCheck
+  ./frontend/frontend/src/views/userPastePage.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/views/userPastePage.jsx
+    DependencyCheck
+  ./frontend/frontend/src/views/registerPage.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/views/registerPage.jsx
+    DependencyCheck
+  ./frontend/frontend/src/views/myPastePage.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/views/myPastePage.jsx
+    DependencyCheck
+  ./frontend/frontend/src/views/createPastePage.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/views/createPastePage.jsx
+    DependencyCheck
+  ./frontend/frontend/src/main.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/main.jsx
+    DependencyCheck
+  ./frontend/frontend/src/helpers.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/helpers.js
+    DependencyCheck
+  ./frontend/frontend/src/index.css
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/index.css
+    DependencyCheck
+  ./frontend/frontend/src/App.jsx
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/App.jsx
+    DependencyCheck
+  ./frontend/frontend/src/api.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/api.js
+    DependencyCheck
+  ./frontend/frontend/public/vite.svg
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/public/vite.svg
+    DependencyCheck
+  ./frontend/frontend/package.json
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/package.json
+    DependencyCheck
+  ./frontend/frontend/eslint.config.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/eslint.config.js
+    DependencyCheck
+  ./frontend/frontend/package-lock.json
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/package-lock.json
+    DependencyCheck
+  ./frontend/frontend/README.md
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/README.md
+    DependencyCheck
+  ./frontend/frontend/index.html
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/index.html
+    DependencyCheck
+  ./frontend/frontend/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/Dockerfile
+    DependencyCheck
+  ./frontend/frontend/vite.config.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/vite.config.js
+    DependencyCheck
+  ./frontend/package.json
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/package.json
+    DependencyCheck
+  ./frontend/package-lock.json
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/package-lock.json
+    DependencyCheck
+  ./frontend/helpers.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/helpers.js
+    DependencyCheck
+  ./frontend/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/Dockerfile
+    DependencyCheck
+  ./frontend/index.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/index.js
+    DependencyCheck
+  ./frontend/api.js
+  /home/amir/CTF/MCTF/2024/Stud/web/frontend/api.js
+    DependencyCheck
+  ./docker-compose.yml
+  /home/amir/CTF/MCTF/2024/Stud/web/docker-compose.yml
+    DependencyCheck
+

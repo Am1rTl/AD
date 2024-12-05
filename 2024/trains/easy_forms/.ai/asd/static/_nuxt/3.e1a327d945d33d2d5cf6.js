@@ -1,0 +1,367 @@
+(window.webpackJsonp = window.webpackJsonp || []).push([
+    [3], {
+        287: function(t, e, r) {
+            var content = r(386);
+            content.__esModule && (content = content.default), "string" == typeof content && (content = [
+                [t.i, content, ""]
+            ]), content.locals && (t.exports = content.locals);
+            (0, r(19).default)("36b005b6", content, !0, {
+                sourceMap: !1
+            })
+        },
+        306: function(t, e, r) {
+            "use strict";
+            var n = r(495),
+                o = r(499),
+                c = r(498),
+                l = r(501),
+                f = r(497),
+                h = r(83),
+                d = r(496),
+                v = r(500),
+                m = r(56),
+                _ = (r(151), r(64), {
+                    data: function() {
+                        return {
+                            items: [{
+                                title: "Home",
+                                to: "/"
+                            }, {
+                                title: "Create Form",
+                                to: "/admin/forms/create"
+                            }]
+                        }
+                    },
+                    methods: {
+                        dynamicMenu: function() {
+                            var t = Object(m.a)(this.items),
+                                e = this.$route;
+                            return e.path.startsWith("/admin/forms") && e.params.id && (t.splice(1, 0, {
+                                title: "Integrations",
+                                to: "/admin/forms/".concat(e.params.id, "/integrations")
+                            }), t.splice(2, 0, {
+                                title: "Results",
+                                to: "/admin/forms/".concat(e.params.id, "/results")
+                            })), t
+                        }
+                    }
+                }),
+                x = r(71),
+                component = Object(x.a)(_, (function() {
+                    var t = this,
+                        e = t._self._c;
+                    return e(n.a, {
+                        attrs: {
+                            id: "inspire"
+                        }
+                    }, [e(o.a, {
+                        attrs: {
+                            app: "",
+                            color: "white",
+                            flat: ""
+                        }
+                    }, [e(v.a, {
+                        staticClass: "ml-n9",
+                        attrs: {
+                            centered: "",
+                            color: "grey lighten-1"
+                        }
+                    }, t._l(t.dynamicMenu(), (function(r) {
+                        return e(d.a, {
+                            key: r.to,
+                            attrs: {
+                                to: r.to,
+                                nuxt: ""
+                            }
+                        }, [t._v("\n        " + t._s(r.title) + "\n      ")])
+                    })), 1), t._v(" "), e("UserMenu")], 1), t._v(" "), e(f.a, {
+                        staticClass: "grey lighten-3"
+                    }, [e(l.a, [e(c.a, {
+                        attrs: {
+                            cols: "12"
+                        }
+                    }, [e(h.a, {
+                        staticClass: "px-5 py-5",
+                        attrs: {
+                            "min-height": "70vh",
+                            rounded: "lg"
+                        }
+                    }, [e("Nuxt")], 1)], 1)], 1)], 1)], 1)
+                }), [], !1, null, null, null);
+            e.a = component.exports;
+            installComponents(component, {
+                UserMenu: r(484).default
+            })
+        },
+        307: function(t, e, r) {
+            "use strict";
+            var n = r(495),
+                o = r(499),
+                c = r(498),
+                l = r(501),
+                f = r(497),
+                h = r(83),
+                d = r(496),
+                v = r(500),
+                m = {
+                    data: function() {
+                        return {
+                            items: [{
+                                title: "Login",
+                                to: "/login"
+                            }, {
+                                title: "Register",
+                                to: "/register"
+                            }]
+                        }
+                    }
+                },
+                _ = r(71),
+                component = Object(_.a)(m, (function() {
+                    var t = this,
+                        e = t._self._c;
+                    return e(n.a, {
+                        attrs: {
+                            id: "inspire"
+                        }
+                    }, [e(o.a, {
+                        attrs: {
+                            app: "",
+                            color: "white",
+                            flat: ""
+                        }
+                    }, [e(v.a, {
+                        staticClass: "ml-n9",
+                        attrs: {
+                            centered: "",
+                            color: "grey lighten-1"
+                        }
+                    }, t._l(t.items, (function(r) {
+                        return e(d.a, {
+                            key: r.to,
+                            attrs: {
+                                to: r.to,
+                                nuxt: ""
+                            }
+                        }, [t._v("\n        " + t._s(r.title) + "\n      ")])
+                    })), 1)], 1), t._v(" "), e(f.a, {
+                        staticClass: "grey lighten-3"
+                    }, [e(l.a, [e(c.a, {
+                        attrs: {
+                            cols: "12"
+                        }
+                    }, [e(h.a, {
+                        staticClass: "px-5 py-5",
+                        attrs: {
+                            "min-height": "70vh",
+                            rounded: "lg"
+                        }
+                    }, [e("Nuxt")], 1)], 1)], 1)], 1)], 1)
+                }), [], !1, null, null, null);
+            e.a = component.exports
+        },
+        325: function(t, e, r) {
+            r(326), t.exports = r(327)
+        },
+        364: function(t, e, r) {
+            "use strict";
+            r.r(e);
+            var n = r(30),
+                o = (r(101), r(5), r(64), ["/login", "/register"]),
+                c = function(path) {
+                    return o.some((function(t) {
+                        return path === t
+                    }))
+                };
+
+            function l() {
+                return (l = Object(n.a)(regeneratorRuntime.mark((function t(e) {
+                    var r, n, o, l;
+                    return regeneratorRuntime.wrap((function(t) {
+                        for (;;) switch (t.prev = t.next) {
+                            case 0:
+                                if (!e.$auth.$state.loggedIn) {
+                                    t.next = 23;
+                                    break
+                                }
+                                if (r = e.$auth.check(!0), n = r.tokenExpired, o = r.refreshTokenExpired, l = r.isRefreshable, !o) {
+                                    t.next = 6;
+                                    break
+                                }
+                                e.$auth.reset(), t.next = 19;
+                                break;
+                            case 6:
+                                if (!n) {
+                                    t.next = 19;
+                                    break
+                                }
+                                if (!l) {
+                                    t.next = 18;
+                                    break
+                                }
+                                return t.prev = 8, t.next = 11, e.$auth.refreshTokens();
+                            case 11:
+                                t.next = 16;
+                                break;
+                            case 13:
+                                t.prev = 13, t.t0 = t.catch(8), e.$auth.reset();
+                            case 16:
+                                t.next = 19;
+                                break;
+                            case 18:
+                                e.$auth.reset();
+                            case 19:
+                                if (!c(e.route.path)) {
+                                    t.next = 21;
+                                    break
+                                }
+                                return t.abrupt("return", e.redirect("/"));
+                            case 21:
+                                t.next = 25;
+                                break;
+                            case 23:
+                                if (c(e.route.path) || e.route.path.startsWith("/forms/")) {
+                                    t.next = 25;
+                                    break
+                                }
+                                return t.abrupt("return", e.redirect("/login"));
+                            case 25:
+                            case "end":
+                                return t.stop()
+                        }
+                    }), t, null, [
+                        [8, 13]
+                    ])
+                })))).apply(this, arguments)
+            }
+            e.default = function(t) {
+                return l.apply(this, arguments)
+            }
+        },
+        385: function(t, e, r) {
+            "use strict";
+            r(287)
+        },
+        386: function(t, e, r) {
+            var n = r(18)((function(i) {
+                return i[1]
+            }));
+            n.push([t.i, "h1[data-v-35e10596]{font-size:20px}", ""]), n.locals = {}, t.exports = n
+        },
+        459: function(t, e) {},
+        484: function(t, e, r) {
+            "use strict";
+            r.r(e);
+            var n = r(220),
+                o = r(224),
+                c = r(486),
+                l = r(488),
+                f = r(232),
+                h = r(490),
+                d = (r(25), {
+                    methods: {
+                        user: function() {
+                            var t;
+                            return null === (t = this.$auth) || void 0 === t ? void 0 : t.user
+                        },
+                        shortUsername: function() {
+                            var t;
+                            return null === (t = this.user()) || void 0 === t ? void 0 : t.name.substr(0, 2).toUpperCase()
+                        },
+                        logout: function() {
+                            var t = this;
+                            this.$auth.logout().then((function(e) {
+                                t.$router.go(0)
+                            }))
+                        }
+                    }
+                }),
+                v = r(71),
+                component = Object(v.a)(d, (function() {
+                    var t, e, r = this,
+                        d = r._self._c;
+                    return d("div", {
+                        staticClass: "text-center mx-5"
+                    }, [d(h.a, {
+                        attrs: {
+                            bottom: "",
+                            "offset-y": ""
+                        },
+                        scopedSlots: r._u([{
+                            key: "activator",
+                            fn: function(t) {
+                                var e = t.on,
+                                    o = t.attrs;
+                                return [d(n.a, r._g(r._b({
+                                    attrs: {
+                                        color: "secondary"
+                                    }
+                                }, "v-avatar", o, !1), e), [r._v(r._s(r.shortUsername()))])]
+                            }
+                        }])
+                    }, [r._v(" "), d(c.a, [d(f.a, {
+                        staticClass: "justify-center"
+                    }, [d("div", {
+                        staticClass: "mx-auto text-center px-5"
+                    }, [d("h3", [r._v(r._s(null === (t = this.user()) || void 0 === t ? void 0 : t.email))]), r._v(" "), d(l.a, {
+                        staticClass: "my-3"
+                    }), r._v(" "), d("p", [r._v(r._s(null === (e = this.user()) || void 0 === e ? void 0 : e.name))]), r._v(" "), d(o.a, {
+                        staticClass: "mx-5",
+                        attrs: {
+                            small: "",
+                            text: ""
+                        },
+                        on: {
+                            click: function(t) {
+                                return r.logout()
+                            }
+                        }
+                    }, [r._v("Logout")])], 1)])], 1)], 1)], 1)
+                }), [], !1, null, null, null);
+            e.default = component.exports
+        },
+        92: function(t, e, r) {
+            "use strict";
+            var n = r(495),
+                o = {
+                    name: "EmptyLayout",
+                    layout: "empty",
+                    props: {
+                        error: {
+                            type: Object,
+                            default: null
+                        }
+                    },
+                    data: function() {
+                        return {
+                            pageNotFound: "404 Not Found",
+                            otherError: "An error occurred"
+                        }
+                    },
+                    head: function() {
+                        return {
+                            title: 404 === this.error.statusCode ? this.pageNotFound : this.otherError
+                        }
+                    }
+                },
+                c = (r(385), r(71)),
+                component = Object(c.a)(o, (function() {
+                    var t = this,
+                        e = t._self._c;
+                    return e(n.a, {
+                        attrs: {
+                            dark: ""
+                        }
+                    }, [404 === t.error.statusCode ? e("h1", [t._v("\n    " + t._s(t.pageNotFound) + "\n  ")]) : e("h1", [t._v("\n    " + t._s(t.otherError) + "\n  ")]), t._v(" "), e("NuxtLink", {
+                        attrs: {
+                            to: "/"
+                        }
+                    }, [t._v("\n    Home page\n  ")])], 1)
+                }), [], !1, null, "35e10596", null);
+            e.a = component.exports
+        }
+    },
+    [
+        [325, 23, 4, 24]
+    ]
+]);

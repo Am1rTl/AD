@@ -1,0 +1,19 @@
+Send message {Progress, MessagePack, 4 bytes}
+Send message {IgnoredNodes, MessagePack, 2911 bytes}
+Send message {NodeScanStatus, MessagePack, 69 bytes}
+Send message {IssueDetected, MessagePack, 1018 bytes}
+Send message {IssueDetected, MessagePack, 1235 bytes}
+Send message {IssueDetected, MessagePack, 1235 bytes}
+Send message {IssueDetected, MessagePack, 922 bytes}
+Send message {IssueDetected, MessagePack, 922 bytes}
+Send message {IssueDetected, MessagePack, 698 bytes}
+Send message {IssueDetected, MessagePack, 1083 bytes}
+Send message {IssueDetected, MessagePack, 1083 bytes}
+Send message {Progress, MessagePack, 4 bytes}
+Send message {NodeScanStatus, MessagePack, 69 bytes}
+Send message {ScanDone, ByteArray, 0 bytes}
+Elapsed time of the 'Scan' stage: 00:00:08.8003511
+Send message {Progress, MessagePack, 4 bytes}
+Send message {FinalizeDone, ByteArray, 0 bytes}
+Elapsed time of the 'Finalize' stage: 00:00:00.0038855
+Core was stopped due to an error

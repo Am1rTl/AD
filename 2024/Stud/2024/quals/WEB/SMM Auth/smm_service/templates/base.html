@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}SMM: auto target{% endblock %}</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>SMM: auto target</h1>
+        </div>
+        {% if user %}
+        <div style="display: flex; justify-content: end; align-items: center; gap: 20px">
+            <div class="user-info">
+                <span class="user-greeting">Hello, {{ user.username }}</span>
+            </div>
+            <div><a href="/logout" class="logout-button">Выход</a></div>
+        </div>
+        {% else %}
+            <a href="/login" class="login-button">Авторизация</a>
+        {% endif %}
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

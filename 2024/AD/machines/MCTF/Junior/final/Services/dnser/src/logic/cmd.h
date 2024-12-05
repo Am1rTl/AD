@@ -1,0 +1,48 @@
+
+#ifndef DNSER_CMD_H
+#define DNSER_CMD_H
+
+enum DNSER_ACTIONS {
+    ACTION_MIN,
+
+    ACTION_REGISTER = ACTION_MIN,
+    ACTION_LOGIN,
+    ACTION_IP,
+    ACTION_DNS,
+    ACTION_SHOW,
+    ACTION_DEBUG,
+    ACTION_EXIT,
+
+    ACTION_MAX
+};
+
+#define MAX_BUF_SIZE 511
+
+extern void (*actions[])(const char buf[MAX_BUF_SIZE]);
+
+enum DNSER_STATES {
+    STATE_REG_USERNAME = 0,
+    STATE_REG_PASS,
+
+    STATE_LOGIN_USERNAME = 0,
+    STATE_LOGIN_PASS,
+
+    STATE_IP_CHOOSE = 0,
+    STATE_IP_BUY,
+    STATE_IP_CHECK,
+
+    STATE_DNS_BUY = 0,
+    STATE_DNS_RESOLVE,
+    STATE_DNS_REVERSE_RESOLVE,
+
+    STATE_SHOW_USERS = 0,
+    STATE_SHOW_MY_MONEY,
+    STATE_SHOW_MY_IPS,
+    STATE_SHOW_MY_DOMAINS
+};
+
+void set_ctx_state(enum DNSER_STATES state);
+
+extern void (*init_fns[])(void);
+
+#endif //DNSER_CMD_H

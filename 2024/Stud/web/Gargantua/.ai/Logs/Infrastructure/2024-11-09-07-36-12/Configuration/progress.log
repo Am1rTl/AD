@@ -1,0 +1,25 @@
+2024-11-09 07:36:29.909435 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src
+2024-11-09 07:36:29.909584 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot
+2024-11-09 07:36:29.909647 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot/package.json
+2024-11-09 07:36:29.909703 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot/bot.js
+2024-11-09 07:36:29.909754 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot/bot.Dockerfile
+2024-11-09 07:36:29.909802 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app
+2024-11-09 07:36:29.909850 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates
+2024-11-09 07:36:29.909897 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates/register.html
+2024-11-09 07:36:29.909944 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates/profile.html
+2024-11-09 07:36:29.909990 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates/login.html
+2024-11-09 07:36:29.910032 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/static
+2024-11-09 07:36:29.910072 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/static/css
+2024-11-09 07:36:29.910112 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/static/css/bootstrap.min.css
+2024-11-09 07:36:29.910155 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/go.mod
+2024-11-09 07:36:29.910197 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/db.go
+2024-11-09 07:36:29.910237 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/go.sum
+2024-11-09 07:36:29.910278 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/app.Dockerfile
+2024-11-09 07:36:29.910320 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/main.go
+2024-11-09 07:36:29.910360 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/helpers.go
+2024-11-09 07:36:29.910402 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/default.conf
+2024-11-09 07:36:29.910445 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/init.sql
+2024-11-09 07:36:29.910487 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/docker-compose.yaml
+2024-11-09 07:36:29.910529 ║INFO	║ 128822	║ process file /home/amir/CTF/MCTF/2024/Stud/web/Gargantua
+2024-11-09 07:37:01.957057 ║INFO	║ 128822	║ Finalize
+2024-11-09 07:37:01.957120 ║INFO	║ 128822	║ Finalize done

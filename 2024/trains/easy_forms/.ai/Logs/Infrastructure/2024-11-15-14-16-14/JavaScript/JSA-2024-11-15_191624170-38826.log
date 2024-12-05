@@ -1,0 +1,12 @@
+﻿#Thread(1) 2024-11-15 14:16:24.175: INFO: Platform: x64, framework: .NETCoreApp,Version=v5.0
+#Thread(1) 2024-11-15 14:16:24.183: INFO: Core version 1.5.0.0, started with command line: /home/amir/application-inspector-analyzer/utils/jsa/JSA.dll --connection-type Socket -p 45083 --disable-memory-limit false --free-memory-percent-limit 14 --logs-dir /home/amir/CTF/MCTF/2024/AD/easy_forms/.ai/Logs/Infrastructure/2024-11-15-14-16-14/JavaScript
+#Thread(7) 2024-11-15 14:16:26.741: INFO: Selected language provider: JSA.JavaScriptProvider v1.5.10.0
+#Thread(7) 2024-11-15 14:16:29.161: ERROR: /home/amir/CTF/MCTF/2024/AD/easy_forms has no /home/amir/CTF/MCTF/2024/AD/easy_forms/package.json to restore JS packages.
+#Thread(13) 2024-11-15 14:16:58.504: INFO: Initializing custom knowledge base.
+#Thread(13) 2024-11-15 14:16:58.507: INFO: Loading custom knowledge base from folder /home/amir/application-inspector-analyzer/utils/jsa/Scripts.
+#Thread(13) 2024-11-15 14:16:58.524: INFO: Custom knowledge base initialized.
+#Thread(17) 2024-11-15 14:16:58.630: ERROR: Not supported in instruction table: NewScArrayWithMissingValues
+#Thread(16) 2024-11-15 14:16:58.848: ERROR: Not supported in instruction table: NewScArrayWithMissingValues
+#Thread(16) 2024-11-15 14:16:58.874: ERROR: Not supported in instruction table: NewScArrayWithMissingValues
+#Thread(19) 2024-11-15 14:16:59.033: ERROR: Not supported in instruction table: NewScArrayWithMissingValues
+#Thread(45) 2024-11-15 14:17:42.985: INFO: Scan successfully finished!

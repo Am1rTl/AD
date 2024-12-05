@@ -1,0 +1,28 @@
+﻿#Thread(1) 2024-11-09 5:34:33.707: INFO: Platform: x64, framework: .NETCoreApp,Version=v5.0
+#Thread(1) 2024-11-09 5:34:33.726: INFO: Core version 1.5.0.0, started with command line: /home/amir/application-inspector-analyzer/utils/jsa/JSA.dll --connection-type Socket -p 33393 --disable-memory-limit false --free-memory-percent-limit 14 --logs-dir /home/amir/CTF/MCTF/2024/Stud/web/.ai/Logs/Infrastructure/2024-11-09-05-34-24/JavaScript
+#Thread(10) 2024-11-09 5:34:35.944: INFO: Selected language provider: JSA.JavaScriptProvider v1.5.10.0
+#Thread(11) 2024-11-09 5:34:36.485: ERROR: /home/amir/CTF/MCTF/2024/Stud/web has no /home/amir/CTF/MCTF/2024/Stud/web/package.json to restore JS packages.
+#Thread(14) 2024-11-09 5:36:23.541: INFO: Initializing custom knowledge base.
+#Thread(14) 2024-11-09 5:36:23.547: INFO: Loading custom knowledge base from folder /home/amir/application-inspector-analyzer/utils/jsa/Scripts.
+#Thread(14) 2024-11-09 5:36:23.575: INFO: Custom knowledge base initialized.
+#Thread(18) 2024-11-09 5:36:28.443: ERROR: Not supported in instruction table: Yield
+#Thread(18) 2024-11-09 5:36:28.447: ERROR: Not supported in instruction table: Yield
+#Thread(23) 2024-11-09 5:36:32.261: ERROR: Not supported in instruction table: Yield
+#Thread(21) 2024-11-09 5:36:32.265: ERROR: Not supported in instruction table: Yield
+#Thread(16) 2024-11-09 5:36:32.680: ERROR: Not supported in instruction table: Yield
+#Thread(16) 2024-11-09 5:36:32.681: ERROR: Not supported in instruction table: Yield
+#Thread(17) 2024-11-09 5:36:32.991: ERROR: Not supported in instruction table: Yield
+#Thread(26) 2024-11-09 5:36:34.358: ERROR: Not supported in instruction table: Yield
+#Thread(25) 2024-11-09 5:36:34.452: ERROR: Not supported in instruction table: Yield
+#Thread(17) 2024-11-09 5:36:34.463: ERROR: Not supported in instruction table: Yield
+#Thread(19) 2024-11-09 5:36:34.465: ERROR: Not supported in instruction table: Yield
+#Thread(17) 2024-11-09 5:36:34.565: ERROR: Not supported in instruction table: Yield
+#Thread(25) 2024-11-09 5:36:34.667: ERROR: Not supported in instruction table: Yield
+#Thread(17) 2024-11-09 5:36:34.670: ERROR: Not supported in instruction table: Yield
+#Thread(26) 2024-11-09 5:36:34.772: ERROR: Not supported in instruction table: Yield
+#Thread(23) 2024-11-09 5:36:35.910: ERROR: Not supported in instruction table: Yield
+#Thread(17) 2024-11-09 5:36:36.117: ERROR: Not supported in instruction table: Yield
+#Thread(28) 2024-11-09 5:36:36.120: ERROR: Not supported in instruction table: Yield
+#Thread(25) 2024-11-09 5:36:36.221: ERROR: Not supported in instruction table: Yield
+#Thread(17) 2024-11-09 5:36:36.428: ERROR: Not supported in instruction table: Yield
+#Thread(14) 2024-11-09 5:37:07.388: INFO: Scan successfully finished!

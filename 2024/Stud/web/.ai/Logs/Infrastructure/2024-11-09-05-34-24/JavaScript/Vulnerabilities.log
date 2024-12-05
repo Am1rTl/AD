@@ -1,0 +1,159 @@
+﻿[
+// 2024-11-09 5:36:38.834
+{
+  "Version": "3.0",
+  "Id": "3294434276",
+  "GroupId": "/home/amir/ctf/mctf/2024/stud/web/frontend/routes/user.js:15:3:15:24",
+  "ScanMode": "FromEntryPoint",
+  "Class": "Vulnerability",
+  "Type": "Log Forging",
+  "IsSuspected": false,
+  "IsSecondOrder": false,
+  "IsSuppressed": false,
+  "VulnerableExpression": {
+    "Value": "console.log(username)",
+    "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/user.js",
+    "BeginLine": 15,
+    "BeginColumn": 3,
+    "EndLine": 15,
+    "EndColumn": 24
+  },
+  "EntryPoint": {
+    "Value": "app.listen(5002)",
+    "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/index.js",
+    "BeginLine": 45,
+    "BeginColumn": 1,
+    "EndLine": 45,
+    "EndColumn": 17
+  },
+  "AdditionalConditions": "",
+  "Exploit": {
+    "Type": "HTTP",
+    "Text": "GET /api/user/%5C%0ALog%3A+entry/%5C%0ALog%3A+entry HTTP/1.1\r\nHost: localhost\r\n",
+    "Parameters": []
+  },
+  "TaintDataEntries": [
+    {
+      "Value": "req.params",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/user.js",
+      "BeginLine": 14,
+      "BeginColumn": 20,
+      "EndLine": 14,
+      "EndColumn": 30
+    }
+  ],
+  "DataTrace": [
+    {
+      "Value": "req.params",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/user.js",
+      "BeginLine": 14,
+      "BeginColumn": 20,
+      "EndLine": 14,
+      "EndColumn": 30
+    },
+    {
+      "Value": "req.params.username",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/user.js",
+      "BeginLine": 14,
+      "BeginColumn": 20,
+      "EndLine": 14,
+      "EndColumn": 39
+    },
+    {
+      "Value": "console.log(username)",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/routes/user.js",
+      "BeginLine": 15,
+      "BeginColumn": 3,
+      "EndLine": 15,
+      "EndColumn": 24
+    }
+  ],
+  "BestPlaceToFix": null
+},
+// 2024-11-09 5:36:46.663
+{
+  "Version": "3.0",
+  "Id": "3566979410",
+  "GroupId": "/home/amir/ctf/mctf/2024/stud/web/frontend/frontend/src/main.jsx:6:1:10:2",
+  "ScanMode": "FromEntryPoint",
+  "Class": "Vulnerability",
+  "Type": "Cross-site Scripting",
+  "IsSuspected": false,
+  "IsSecondOrder": false,
+  "IsSuppressed": false,
+  "VulnerableExpression": {
+    "Value": "createRoot(document.getElementById('root')).render( < StrictMode > <App / ></StrictMode>,\n)",
+    "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/main.jsx",
+    "BeginLine": 6,
+    "BeginColumn": 1,
+    "EndLine": 10,
+    "EndColumn": 2
+  },
+  "EntryPoint": {
+    "Value": "createRoot(document.getElementById('root')).render(\n  <StrictMode>\n    <App />\n  </StrictMode>,\n)",
+    "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/main.jsx",
+    "BeginLine": 6,
+    "BeginColumn": 1,
+    "EndLine": 10,
+    "EndColumn": 2
+  },
+  "AdditionalConditions": "(((String(global.document.cookie.split(\";\").find({\"__proto__\":((#1.47), #44):<1876>.__proto__, \"prototype\":((#1.47), #44):<1876>.prototype}))) === \"A\") && ((String(global.document.cookie.split(\";\").find({\"__proto__\":((#1.47), #44):<21708>.__proto__, \"prototype\":((#1.47), #44):<21708>.prototype}))) === \"B\") && (Object[10721].target.value === \"<script>alert(1337)</script>\"))",
+  "Exploit": {
+    "Type": "HTTP",
+    "Text": "GET /home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/main.jsx HTTP/1.1\r\nHost: localhost\r\n",
+    "Parameters": []
+  },
+  "TaintDataEntries": [
+    {
+      "Value": "e.target.value",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/codeEditor.jsx",
+      "BeginLine": 28,
+      "BeginColumn": 21,
+      "EndLine": 28,
+      "EndColumn": 35
+    }
+  ],
+  "DataTrace": [
+    {
+      "Value": "e.target.value",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/codeEditor.jsx",
+      "BeginLine": 28,
+      "BeginColumn": 21,
+      "EndLine": 28,
+      "EndColumn": 35
+    },
+    {
+      "Value": "setCode(newCode)",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/codeEditor.jsx",
+      "BeginLine": 29,
+      "BeginColumn": 5,
+      "EndLine": 29,
+      "EndColumn": 21
+    },
+    {
+      "Value": "code || ' '",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/codeEditor.jsx",
+      "BeginLine": 80,
+      "BeginColumn": 14,
+      "EndLine": 80,
+      "EndColumn": 25
+    },
+    {
+      "Value": "< code className = {`language - $ {\n        language\n    }`\n} > {\n    code || ' '\n} < /code>",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/components/codeEditor.jsx",
+      "BeginLine": 79,
+      "BeginColumn": 11,
+      "EndLine": 81,
+      "EndColumn": 18
+    },
+    {
+      "Value": "createRoot(document.getElementById('root')).render( < StrictMode > <App / ></StrictMode>,\n)",
+      "File": "/home/amir/CTF/MCTF/2024/Stud/web/frontend/frontend/src/main.jsx",
+      "BeginLine": 6,
+      "BeginColumn": 1,
+      "EndLine": 10,
+      "EndColumn": 2
+    }
+  ],
+  "BestPlaceToFix": null
+}]

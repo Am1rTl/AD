@@ -1,0 +1,213 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  margin: 0 20px;
+}
+
+.user-info {
+  /* width: 400px; */
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Добавляем отступ между кнопкой и текстом */
+  background-color: #fff;
+  color: #333333;
+  padding: 10px 20px;
+  border: 2px solid #4CAF50;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.login-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.logout-button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.login-button:hover {
+  background-color: #45a049;
+}
+
+main {
+  padding: 20px;
+}
+
+.add-news-button {
+  background-color: #FFA500;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.add-news-button:hover {
+  background-color: #FF8C00;
+}
+
+.news-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.news-summary {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  width: calc(33.333% - 20px); /* Adjust for 3 columns */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  margin-bottom: 20px;
+}
+
+.news-summary:hover {
+  transform: scale(1.05);
+}
+
+.news-summary h2 {
+  margin-top: 0;
+}
+
+.news-summary p.description {
+  color: #555;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.read-more-button {
+  display: inline-block;
+  text-align: center;
+  background-color: #008CBA;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.read-more-button:hover {
+  background-color: #007B9A;
+}
+
+.news-detail {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.back-button {
+  display: block;
+  text-align: center;
+  background-color: #f44336;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.back-button:hover {
+  background-color: #d32f2f;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.login-form,
+.news-form {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.login-form h2, .news-form h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+.login-form form,
+.news-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form label,
+.news-form label {
+  margin-bottom: 5px;
+}
+
+.login-form input,
+.news-form input,
+.news-form textarea {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.news-form textarea {
+  resize: vertical;
+}
+
+.login-form button,
+.news-form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-form button:hover,
+.news-form button:hover {
+  background-color: #45a049;
+}

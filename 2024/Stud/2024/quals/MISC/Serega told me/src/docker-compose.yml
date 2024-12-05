@@ -1,0 +1,15 @@
+version: "3"
+services:
+  serega:
+    build: .
+    restart: always
+    container_name: serega
+    environment:
+      - FLAG=MCTF{n1k0gd4_n3_b0jsya_0sh1b4tsya}
+    ports:
+      - "4444:4444"
+    healthcheck:
+      test: [ "CMD", "socat", "TCP4:localhost:4444", "-" ]
+      interval: 57s
+      timeout: 3s
+      retries: 1

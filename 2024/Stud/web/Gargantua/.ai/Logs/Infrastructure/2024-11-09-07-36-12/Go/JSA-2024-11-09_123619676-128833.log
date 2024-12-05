@@ -1,0 +1,44 @@
+﻿#Thread(1) 2024-11-09 7:36:19.683: INFO: Platform: x64, framework: .NETCoreApp,Version=v6.0
+#Thread(1) 2024-11-09 7:36:19.706: INFO: Core version 1.5.0.0, started with command line: /home/amir/application-inspector-analyzer/utils/go/JSA.dll --connection-type Socket -p 33701 --disable-memory-limit false --free-memory-percent-limit 14 --logs-dir /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/.ai/Logs/Infrastructure/2024-11-09-07-36-12/Go --language go
+#Thread(11) 2024-11-09 7:36:22.165: INFO: Selected language provider: JSA.GoProvider v
+#Thread(7) 2024-11-09 7:36:23.138: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/docker-compose.yaml ignored.
+#Thread(5) 2024-11-09 7:36:23.138: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot/package.json ignored.
+#Thread(7) 2024-11-09 7:36:23.138: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates/register.html ignored.
+#Thread(7) 2024-11-09 7:36:23.138: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates/login.html ignored.
+#Thread(11) 2024-11-09 7:36:23.138: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/default.conf ignored.
+#Thread(42) 2024-11-09 7:36:23.139: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/go.mod ignored.
+#Thread(44) 2024-11-09 7:36:23.139: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/go.sum ignored.
+#Thread(7) 2024-11-09 7:36:23.139: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/static/css/bootstrap.min.css ignored.
+#Thread(5) 2024-11-09 7:36:23.139: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/templates/profile.html ignored.
+#Thread(41) 2024-11-09 7:36:23.140: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot/bot.js ignored.
+#Thread(47) 2024-11-09 7:36:23.140: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/app/app.Dockerfile ignored.
+#Thread(9) 2024-11-09 7:36:23.141: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/init.sql ignored.
+#Thread(43) 2024-11-09 7:36:23.141: INFO: File /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/src/bot/bot.Dockerfile ignored.
+#Thread(49) 2024-11-09 7:36:23.147: INFO: File src/app/helpers.go read (Elapsed: (Elapsed: 00:00.008)).
+#Thread(45) 2024-11-09 7:36:23.147: INFO: File src/app/db.go read (Elapsed: (Elapsed: 00:00.008)).
+#Thread(46) 2024-11-09 7:36:23.148: INFO: File src/app/main.go read (Elapsed: (Elapsed: 00:00.008)).
+#Thread(45) 2024-11-09 7:36:23.183: INFO: File src/app/db.go tokenized (Elapsed: 00:00.012).
+#Thread(46) 2024-11-09 7:36:23.183: INFO: File src/app/main.go tokenized (Elapsed: 00:00.012).
+#Thread(49) 2024-11-09 7:36:23.183: INFO: File src/app/helpers.go tokenized (Elapsed: 00:00.013).
+#Thread(45) 2024-11-09 7:36:23.308: INFO: File src/app/db.go parsed (Elapsed: 00:00.123).
+#Thread(46) 2024-11-09 7:36:23.369: INFO: File src/app/main.go parsed (Elapsed: 00:00.184).
+#Thread(49) 2024-11-09 7:36:23.369: INFO: File src/app/helpers.go parsed (Elapsed: 00:00.184).
+#Thread(45) 2024-11-09 7:36:23.386: INFO: File src/app/db.go converted (Elapsed: 00:00.077).
+#Thread(46) 2024-11-09 7:36:23.386: INFO: File src/app/main.go converted (Elapsed: 00:00.017).
+#Thread(49) 2024-11-09 7:36:23.386: INFO: File src/app/helpers.go converted (Elapsed: 00:00.016).
+#Thread(7) 2024-11-09 7:36:23.387: INFO: Discovered and converted 3 files.
+#Thread(46) 2024-11-09 7:36:30.140: INFO: Declaration collection started
+#Thread(46) 2024-11-09 7:36:30.145: INFO: Discovered 1 packages
+#Thread(46) 2024-11-09 7:36:30.145: INFO: Declaration collection finished
+#Thread(46) 2024-11-09 7:36:30.145: INFO: Initializing project types
+#Thread(46) 2024-11-09 7:36:30.148: INFO: Project types initialized
+#Thread(46) 2024-11-09 7:36:30.184: INFO: Initializing src.app.main
+#Thread(46) 2024-11-09 7:36:30.184: INFO: src.app.main initialized
+#Thread(46) 2024-11-09 7:36:30.184: INFO: Root entry points execution...
+#Thread(46) 2024-11-09 7:36:30.204: INFO: Root entry points executed.
+#Thread(46) 2024-11-09 7:36:30.204: INFO: Embedded targets execution...
+#Thread(46) 2024-11-09 7:36:30.209: INFO: Embedded targets executed.
+#Thread(46) 2024-11-09 7:36:30.210: INFO: Public entry points execution...
+#Thread(46) 2024-11-09 7:36:30.210: INFO: Public entry points executed.
+#Thread(46) 2024-11-09 7:36:30.337: INFO: Please implement this method for incremental scan support.
+#Thread(46) 2024-11-09 7:36:30.337: INFO: Scan successfully finished!

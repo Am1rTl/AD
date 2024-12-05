@@ -1,0 +1,4 @@
+07:36:22.309  ERROR  @JavaScriptProcessor: Error "UnknownError"(null) was received with message:
+
+  /home/amir/CTF/MCTF/2024/Stud/web/Gargantua has no /home/amir/CTF/MCTF/2024/Stud/web/Gargantua/package.json to restore JS packages.
+
