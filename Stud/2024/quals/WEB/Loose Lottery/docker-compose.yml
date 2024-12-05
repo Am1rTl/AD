@@ -1,0 +1,17 @@
+services:
+  web:
+    build:
+      context: ./
+      args:
+        - TASK_NAME=${TASK_NAME}
+        - FLAG=${FLAG}
+    ports:
+      - "4000:80"
+    environment:
+      - TASK_NAME=${TASK_NAME}
+      - FLAG=${FLAG}
+    healthcheck:
+      test: "curl -f localhost:80"
+      interval: 2m
+      timeout: 10s
+      retries: 1
