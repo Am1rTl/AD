@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    table {
+        @apply bg-[#181818] table-auto w-full max-w-4xl text-center;
+    }
+    tr {
+        @apply even:bg-[#262626] odd:bg-[#3d3d3d];
+    }
+
+    thead {
+        @apply bg-[#181818];
+    }
+}

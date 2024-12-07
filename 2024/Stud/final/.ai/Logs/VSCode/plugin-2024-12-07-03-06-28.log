@@ -1,0 +1,19 @@
+[12/7/2024, 3:06:28 AM] info: Logging was started to file.
+[12/7/2024, 3:06:28 AM] info: Start application inspector initialization
+[12/7/2024, 3:06:28 AM] info: Hide developer mode UI
+[12/7/2024, 3:06:28 AM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"/home/amir/application-inspector-analyzer","applicationResourcesFolderPath":"/home/amir/application-inspector-analyzer","scanTargetFolderPath":"/home/amir/CTF/MCTF/2024/Stud/final","isDebugging":false,"logLevel":{"q8_1":"Error","r8_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"/home/amir/CTF/MCTF/2024/Stud/final/.ai/Logs/Infrastructure/2024-12-07-03-06-28","tipsFoundNotificationThreshold":1000,"similarIssuesFoundNotificationThreshold":1000,"applicationLocalDataFolderPath":"/home/amir/CTF/MCTF/2024/Stud/final/.ai"}
+[12/7/2024, 3:06:28 AM] info: Start infrastructure initialization
+[12/7/2024, 3:06:28 AM] info: Infrastructure was started
+[12/7/2024, 3:06:29 AM] info: Initialize aie integration isn't initialized
+[12/7/2024, 3:06:29 AM] info: Infrastructure was initialized
+[12/7/2024, 3:06:29 AM] info: Infrastructure Installer was deleted
+[12/7/2024, 3:06:30 AM] info: Clean up logs files was started
+[12/7/2024, 3:06:30 AM] info: Clean up logs files was finished
+[12/7/2024, 3:06:31 AM] info: Project was created. Id: 3ff16619-cbb3-4be0-a100-93ee09fc5cb7
+[12/7/2024, 3:06:33 AM] info: Start scan command handled
+[12/7/2024, 3:11:15 AM] info: cannot open file:///home/amir/CTF/MCTF/2024/Stud/final/Services.zip. Detail: File seems to be binary and cannot be opened as text
+[12/7/2024, 3:11:15 AM] info: cannot open file:///home/amir/CTF/MCTF/2024/Stud/final/Services.zip. Detail: File seems to be binary and cannot be opened as text
+[12/7/2024, 3:11:15 AM] info: cannot open file:///home/amir/CTF/MCTF/2024/Stud/final/Services.zip. Detail: File seems to be binary and cannot be opened as text
+[12/7/2024, 3:12:04 AM] info: Scan done message handled
+[12/7/2024, 3:12:05 AM] info: Scan was finished with errors. Errors will be output to the output channel.
+[12/7/2024, 4:04:41 AM] info: Show description command handled

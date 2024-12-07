@@ -1,0 +1,253 @@
+2024-12-07 03:06:42.826100 ║INFO	║ 3440353	║   3.858 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:38.976577 ║INFO	║ 3440353	║ 240.008 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/static/meme5.jpg
+2024-12-07 03:10:38.976742 ║INFO	║ 3440353	║ 240.008 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/static/meme6.png
+2024-12-07 03:10:38.977104 ║INFO	║ 3440353	║ 240.009 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/helper/currency.php
+2024-12-07 03:10:39.040294 ║INFO	║ 3440353	║ 240.072 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/helper/jwt.php
+2024-12-07 03:10:39.051972 ║INFO	║ 3440353	║ 240.084 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/balanceModel.php
+2024-12-07 03:10:40.115712 ║INFO	║ 3443408	║   0.500 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:43.433930 ║INFO	║ 3443413	║   0.014 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:43.511921 ║INFO	║ 3443415	║   0.084 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:43.661199 ║INFO	║ 3443413	║   0.241 >> 6 public methods found
+2024-12-07 03:10:43.661252 ║INFO	║ 3443413	║   0.241 >> 0 actions found
+2024-12-07 03:10:43.661307 ║INFO	║ 3443413	║   0.241 >> 0 methods to scan in pp mode
+2024-12-07 03:10:43.669933 ║INFO	║ 3443415	║   0.242 >> 8 public methods found
+2024-12-07 03:10:43.669990 ║INFO	║ 3443415	║   0.242 >> 0 actions found
+2024-12-07 03:10:43.670046 ║INFO	║ 3443415	║   0.242 >> 0 methods to scan in pp mode
+2024-12-07 03:10:43.699817 ║INFO	║ 3440353	║ 244.732 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/userModel.php
+2024-12-07 03:10:43.706975 ║INFO	║ 3440353	║ 244.739 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/kopilkaModel.php
+2024-12-07 03:10:48.377661 ║INFO	║ 3443620	║   0.083 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:48.393287 ║INFO	║ 3443622	║   0.017 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:48.520117 ║ERROR	║ 3443620	║   0.225 >> Exception parsing /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/userModel.php, 'UnionType'
+2024-12-07 03:10:48.520589 ║INFO	║ 3443620	║   0.226 >> 0 public methods found
+2024-12-07 03:10:48.520628 ║INFO	║ 3443620	║   0.226 >> 0 actions found
+2024-12-07 03:10:48.520664 ║INFO	║ 3443620	║   0.226 >> 0 methods to scan in pp mode
+2024-12-07 03:10:48.552875 ║INFO	║ 3443622	║   0.176 >> 14 public methods found
+2024-12-07 03:10:48.552946 ║INFO	║ 3443622	║   0.176 >> 0 actions found
+2024-12-07 03:10:48.553036 ║INFO	║ 3443622	║   0.176 >> 0 methods to scan in pp mode
+2024-12-07 03:10:48.565040 ║INFO	║ 3440353	║ 249.597 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/kopilkaMemberModel.php
+2024-12-07 03:10:48.615290 ║INFO	║ 3440353	║ 249.647 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/lib/router.php
+2024-12-07 03:10:53.354890 ║INFO	║ 3443729	║   0.108 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:53.461197 ║INFO	║ 3443732	║   0.063 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:53.489184 ║ERROR	║ 3443729	║   0.242 >> Exception parsing /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/kopilkaMemberModel.php, 'UnionType'
+2024-12-07 03:10:53.489541 ║INFO	║ 3443729	║   0.243 >> 0 public methods found
+2024-12-07 03:10:53.489572 ║INFO	║ 3443729	║   0.243 >> 0 actions found
+2024-12-07 03:10:53.489596 ║INFO	║ 3443729	║   0.243 >> 0 methods to scan in pp mode
+2024-12-07 03:10:53.525816 ║INFO	║ 3440353	║ 254.557 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/lib/sqldispatcher.php
+2024-12-07 03:10:53.610691 ║INFO	║ 3443732	║   0.213 >> 3 public methods found
+2024-12-07 03:10:53.610746 ║INFO	║ 3443732	║   0.213 >> 0 actions found
+2024-12-07 03:10:53.610790 ║INFO	║ 3443732	║   0.213 >> 0 methods to scan in pp mode
+2024-12-07 03:10:53.648616 ║INFO	║ 3440353	║ 254.680 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/authController.php
+2024-12-07 03:10:57.913625 ║INFO	║ 3443989	║   0.014 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:58.123908 ║INFO	║ 3443989	║   0.224 >> 4 public methods found
+2024-12-07 03:10:58.123966 ║INFO	║ 3443989	║   0.224 >> 0 actions found
+2024-12-07 03:10:58.124033 ║INFO	║ 3443989	║   0.224 >> 0 methods to scan in pp mode
+2024-12-07 03:10:58.154861 ║INFO	║ 3443994	║   0.016 >> Classtree created: True, found 12 classes
+2024-12-07 03:10:58.164869 ║INFO	║ 3440353	║ 259.197 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/kopilkaController.php
+2024-12-07 03:10:58.310842 ║INFO	║ 3443994	║   0.172 >> 5 public methods found
+2024-12-07 03:10:58.310911 ║INFO	║ 3443994	║   0.172 >> 0 actions found
+2024-12-07 03:10:58.310991 ║INFO	║ 3443994	║   0.173 >> 0 methods to scan in pp mode
+2024-12-07 03:11:02.148896 ║INFO	║ 3440353	║ 263.181 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/ADDataController.php
+2024-12-07 03:11:02.214022 ║INFO	║ 3444145	║   0.015 >> Classtree created: True, found 12 classes
+2024-12-07 03:11:02.358841 ║INFO	║ 3444267	║   0.014 >> Classtree created: True, found 12 classes
+2024-12-07 03:11:07.322157 ║INFO	║ 3444267	║   4.977 >> 1 public methods found
+2024-12-07 03:11:07.322311 ║INFO	║ 3444267	║   4.977 >> 0 actions found
+2024-12-07 03:11:07.322410 ║INFO	║ 3444267	║   4.977 >> 0 methods to scan in pp mode
+2024-12-07 03:11:07.428218 ║INFO	║ 3444145	║   5.141 >> 9 public methods found
+2024-12-07 03:11:07.428643 ║INFO	║ 3444145	║   5.229 >> 0 actions found
+2024-12-07 03:11:07.429229 ║INFO	║ 3444145	║   5.230 >> 0 methods to scan in pp mode
+2024-12-07 03:11:07.462961 ║INFO	║ 3440353	║ 268.495 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/currencyController.php
+2024-12-07 03:11:07.480898 ║INFO	║ 3440353	║ 268.513 >> working on /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/main.php
+2024-12-07 03:11:12.142397 ║INFO	║ 3444439	║   0.014 >> Classtree created: True, found 12 classes
+2024-12-07 03:11:12.142461 ║INFO	║ 3444437	║   0.016 >> Classtree created: True, found 12 classes
+2024-12-07 03:11:12.276881 ║INFO	║ 3444437	║   0.150 >> 4 public methods found
+2024-12-07 03:11:12.276936 ║INFO	║ 3444437	║   0.150 >> 0 actions found
+2024-12-07 03:11:12.276989 ║INFO	║ 3444437	║   0.150 >> 0 methods to scan in pp mode
+2024-12-07 03:11:12.295972 ║INFO	║ 3444439	║   0.168 >> pvf called pg_connect(((((('host=db dbname=' . $_ENV['POSTGRES_DB']) . ' user=') . $_ENV['POSTGRES_USER']) . ' password=') . $_ENV['POSTGRES_PASSWORD']))
+2024-12-07 03:11:12.296631 ║INFO	║ 3444439	║   0.169 >> arg#0 payloadable: True
+2024-12-07 03:11:12.316769 ║INFO	║ 3440353	║ 273.348 >> working on /home/amir/CTF/MCTF/2024/Stud/final/blinbin/frontend/public/index.html
+2024-12-07 03:11:16.397398 ║INFO	║ 3444517	║   0.101 >> Classtree created: True, found 12 classes
+2024-12-07 03:11:16.495654 ║INFO	║ 3444517	║   0.200 >> 0 public methods found
+2024-12-07 03:11:16.495713 ║INFO	║ 3444517	║   0.200 >> 0 actions found
+2024-12-07 03:11:16.495750 ║INFO	║ 3444517	║   0.200 >> 0 methods to scan in pp mode
+2024-12-07 03:11:16.523719 ║INFO	║ 3444439	║   4.396 >> pvf called call_user_func({163: {162: {3: {162: {3: 'AuthController::login'}}}}})
+2024-12-07 03:11:16.523971 ║INFO	║ 3444439	║   4.396 >> arg#0 payloadable: False
+2024-12-07 03:11:16.525633 ║INFO	║ 3444439	║   4.398 >> pvf called file_get_contents(realpath({173: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.526243 ║INFO	║ 3444439	║   4.398 >> arg#0 payloadable: True
+2024-12-07 03:11:16.531153 ║INFO	║ 3444439	║   4.399 >> arg#0 payloadable: True
+2024-12-07 03:11:16.537321 ║INFO	║ 3444439	║   4.405 >> arg#0 payloadable: True
+2024-12-07 03:11:16.537930 ║INFO	║ 3444439	║   4.410 >> pvf called echo(((string)file_get_contents(realpath({173: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.538614 ║INFO	║ 3444439	║   4.411 >> arg#0 payloadable: True
+2024-12-07 03:11:16.539416 ║INFO	║ 3440353	║ 277.571 >> working on /home/amir/CTF/MCTF/2024/Stud/final/blinbin/frontend/public/blinbin.ico
+2024-12-07 03:11:16.596500 ║INFO	║ 3444439	║   4.469 >> pvf called call_user_func({179: {162: {8: {162: {8: 'AuthController::register'}}}}})
+2024-12-07 03:11:16.596709 ║INFO	║ 3444439	║   4.469 >> arg#0 payloadable: False
+2024-12-07 03:11:16.598500 ║INFO	║ 3444439	║   4.471 >> pvf called file_get_contents(realpath({189: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.599263 ║INFO	║ 3444439	║   4.471 >> arg#0 payloadable: True
+2024-12-07 03:11:16.599985 ║INFO	║ 3444439	║   4.472 >> arg#0 payloadable: True
+2024-12-07 03:11:16.600538 ║INFO	║ 3444439	║   4.473 >> arg#0 payloadable: True
+2024-12-07 03:11:16.600983 ║INFO	║ 3444439	║   4.473 >> pvf called echo(((string)file_get_contents(realpath({189: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.601591 ║INFO	║ 3444439	║   4.474 >> arg#0 payloadable: True
+2024-12-07 03:11:16.605377 ║INFO	║ 3444439	║   4.477 >> pvf called call_user_func({195: {162: {15: {162: {15: 'AuthController::logout'}}}}})
+2024-12-07 03:11:16.605579 ║INFO	║ 3444439	║   4.478 >> arg#0 payloadable: False
+2024-12-07 03:11:16.607509 ║INFO	║ 3444439	║   4.480 >> pvf called file_get_contents(realpath({205: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.608182 ║INFO	║ 3444439	║   4.480 >> arg#0 payloadable: True
+2024-12-07 03:11:16.608871 ║INFO	║ 3444439	║   4.481 >> arg#0 payloadable: True
+2024-12-07 03:11:16.609450 ║INFO	║ 3444439	║   4.482 >> arg#0 payloadable: True
+2024-12-07 03:11:16.609863 ║INFO	║ 3444439	║   4.482 >> pvf called echo(((string)file_get_contents(realpath({205: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.610424 ║INFO	║ 3444439	║   4.482 >> arg#0 payloadable: True
+2024-12-07 03:11:16.617193 ║INFO	║ 3444439	║   4.489 >> pvf called call_user_func({211: {162: {22: {162: {22: 'CurrencyController::convert_currency'}}}}})
+2024-12-07 03:11:16.617376 ║INFO	║ 3444439	║   4.489 >> arg#0 payloadable: False
+2024-12-07 03:11:16.618861 ║INFO	║ 3444439	║   4.491 >> pvf called file_get_contents(realpath({221: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.619521 ║INFO	║ 3444439	║   4.492 >> arg#0 payloadable: True
+2024-12-07 03:11:16.620073 ║INFO	║ 3444439	║   4.492 >> arg#0 payloadable: True
+2024-12-07 03:11:16.620926 ║INFO	║ 3444439	║   4.493 >> arg#0 payloadable: True
+2024-12-07 03:11:16.621399 ║INFO	║ 3444439	║   4.493 >> pvf called echo(((string)file_get_contents(realpath({221: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.621993 ║INFO	║ 3444439	║   4.494 >> arg#0 payloadable: True
+2024-12-07 03:11:16.625584 ║INFO	║ 3444439	║   4.498 >> pvf called call_user_func({227: {162: {29: {162: {29: 'CurrencyController::get_balance'}}}}})
+2024-12-07 03:11:16.625834 ║INFO	║ 3444439	║   4.498 >> arg#0 payloadable: False
+2024-12-07 03:11:16.628853 ║INFO	║ 3444439	║   4.501 >> pvf called file_get_contents(realpath({237: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.629801 ║INFO	║ 3444439	║   4.502 >> arg#0 payloadable: True
+2024-12-07 03:11:16.630570 ║INFO	║ 3444439	║   4.503 >> arg#0 payloadable: True
+2024-12-07 03:11:16.631033 ║INFO	║ 3444439	║   4.503 >> arg#0 payloadable: True
+2024-12-07 03:11:16.631490 ║INFO	║ 3444439	║   4.504 >> pvf called echo(((string)file_get_contents(realpath({237: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.632054 ║INFO	║ 3444439	║   4.504 >> arg#0 payloadable: True
+2024-12-07 03:11:16.639754 ║INFO	║ 3444439	║   4.512 >> pvf called call_user_func({243: {162: {36: {162: {36: 'CurrencyController::exchange_rate'}}}}})
+2024-12-07 03:11:16.639979 ║INFO	║ 3444439	║   4.512 >> arg#0 payloadable: False
+2024-12-07 03:11:16.705566 ║INFO	║ 3444439	║   4.578 >> pvf called file_get_contents(realpath({253: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.706741 ║INFO	║ 3444439	║   4.579 >> arg#0 payloadable: True
+2024-12-07 03:11:16.707654 ║INFO	║ 3444439	║   4.580 >> arg#0 payloadable: True
+2024-12-07 03:11:16.708317 ║INFO	║ 3444439	║   4.580 >> arg#0 payloadable: True
+2024-12-07 03:11:16.708955 ║INFO	║ 3444439	║   4.581 >> pvf called echo(((string)file_get_contents(realpath({253: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.709672 ║INFO	║ 3444439	║   4.582 >> arg#0 payloadable: True
+2024-12-07 03:11:16.712452 ║INFO	║ 3444439	║   4.585 >> pvf called call_user_func({259: {162: {43: {162: {43: 'KopilkaController::create'}}}}})
+2024-12-07 03:11:16.712617 ║INFO	║ 3444439	║   4.585 >> arg#0 payloadable: False
+2024-12-07 03:11:16.714247 ║INFO	║ 3444439	║   4.586 >> pvf called file_get_contents(realpath({269: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.714821 ║INFO	║ 3444439	║   4.587 >> arg#0 payloadable: True
+2024-12-07 03:11:16.715467 ║INFO	║ 3444439	║   4.588 >> arg#0 payloadable: True
+2024-12-07 03:11:16.715941 ║INFO	║ 3444439	║   4.588 >> arg#0 payloadable: True
+2024-12-07 03:11:16.716409 ║INFO	║ 3444439	║   4.588 >> pvf called echo(((string)file_get_contents(realpath({269: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.717007 ║INFO	║ 3444439	║   4.589 >> arg#0 payloadable: True
+2024-12-07 03:11:16.720159 ║INFO	║ 3444439	║   4.592 >> pvf called call_user_func({275: {162: {50: {162: {50: 'KopilkaController::get'}}}}})
+2024-12-07 03:11:16.720349 ║INFO	║ 3444439	║   4.592 >> arg#0 payloadable: False
+2024-12-07 03:11:16.816483 ║INFO	║ 3444439	║   4.689 >> pvf called file_get_contents(realpath({285: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:16.817796 ║INFO	║ 3444439	║   4.690 >> arg#0 payloadable: True
+2024-12-07 03:11:16.818983 ║INFO	║ 3444439	║   4.691 >> arg#0 payloadable: True
+2024-12-07 03:11:16.920280 ║INFO	║ 3444439	║   4.792 >> arg#0 payloadable: True
+2024-12-07 03:11:16.920914 ║INFO	║ 3444439	║   4.793 >> pvf called echo(((string)file_get_contents(realpath({285: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:16.921593 ║INFO	║ 3444439	║   4.794 >> arg#0 payloadable: True
+2024-12-07 03:11:19.010754 ║INFO	║ 3444439	║   6.883 >> pvf called call_user_func({291: {162: {57: {162: {57: 'KopilkaController::generate_report'}}}}})
+2024-12-07 03:11:19.011054 ║INFO	║ 3444439	║   6.883 >> arg#0 payloadable: False
+2024-12-07 03:11:19.120950 ║INFO	║ 3444439	║   6.993 >> pvf called file_get_contents(realpath({301: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.121677 ║INFO	║ 3444439	║   6.994 >> arg#0 payloadable: True
+2024-12-07 03:11:19.122316 ║INFO	║ 3444439	║   6.994 >> arg#0 payloadable: True
+2024-12-07 03:11:19.122880 ║INFO	║ 3444439	║   6.995 >> arg#0 payloadable: True
+2024-12-07 03:11:19.232904 ║INFO	║ 3444439	║   7.100 >> pvf called echo(((string)file_get_contents(realpath({301: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.233604 ║INFO	║ 3444439	║   7.106 >> arg#0 payloadable: True
+2024-12-07 03:11:19.339378 ║INFO	║ 3444439	║   7.211 >> pvf called call_user_func({307: {162: {64: {162: {64: 'KopilkaController::userKopilkasList'}}}}})
+2024-12-07 03:11:19.339577 ║INFO	║ 3444439	║   7.212 >> arg#0 payloadable: False
+2024-12-07 03:11:19.341149 ║INFO	║ 3444439	║   7.213 >> pvf called file_get_contents(realpath({317: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.341758 ║INFO	║ 3444439	║   7.214 >> arg#0 payloadable: True
+2024-12-07 03:11:19.342475 ║INFO	║ 3444439	║   7.215 >> arg#0 payloadable: True
+2024-12-07 03:11:19.343010 ║INFO	║ 3444439	║   7.215 >> arg#0 payloadable: True
+2024-12-07 03:11:19.343482 ║INFO	║ 3444439	║   7.216 >> pvf called echo(((string)file_get_contents(realpath({317: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.344055 ║INFO	║ 3444439	║   7.216 >> arg#0 payloadable: True
+2024-12-07 03:11:19.347211 ║INFO	║ 3444439	║   7.219 >> pvf called call_user_func({323: {162: {71: {162: {71: 'KopilkaController::userKopilkasJoinList'}}}}})
+2024-12-07 03:11:19.347401 ║INFO	║ 3444439	║   7.219 >> arg#0 payloadable: False
+2024-12-07 03:11:19.348932 ║INFO	║ 3444439	║   7.221 >> pvf called file_get_contents(realpath({333: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.349634 ║INFO	║ 3444439	║   7.222 >> arg#0 payloadable: True
+2024-12-07 03:11:19.350273 ║INFO	║ 3444439	║   7.222 >> arg#0 payloadable: True
+2024-12-07 03:11:19.450144 ║INFO	║ 3444439	║   7.223 >> arg#0 payloadable: True
+2024-12-07 03:11:19.450908 ║INFO	║ 3444439	║   7.323 >> pvf called echo(((string)file_get_contents(realpath({333: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.451624 ║INFO	║ 3444439	║   7.324 >> arg#0 payloadable: True
+2024-12-07 03:11:19.454441 ║INFO	║ 3444439	║   7.327 >> pvf called call_user_func({339: {162: {78: {162: {78: 'KopilkaController::join'}}}}})
+2024-12-07 03:11:19.454616 ║INFO	║ 3444439	║   7.327 >> arg#0 payloadable: False
+2024-12-07 03:11:19.456093 ║INFO	║ 3444439	║   7.328 >> pvf called file_get_contents(realpath({349: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.456739 ║INFO	║ 3444439	║   7.329 >> arg#0 payloadable: True
+2024-12-07 03:11:19.457454 ║INFO	║ 3444439	║   7.330 >> arg#0 payloadable: True
+2024-12-07 03:11:19.458054 ║INFO	║ 3444439	║   7.330 >> arg#0 payloadable: True
+2024-12-07 03:11:19.458505 ║INFO	║ 3444439	║   7.331 >> pvf called echo(((string)file_get_contents(realpath({349: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.459182 ║INFO	║ 3444439	║   7.331 >> arg#0 payloadable: True
+2024-12-07 03:11:19.462290 ║INFO	║ 3444439	║   7.334 >> pvf called call_user_func({355: {162: {85: {162: {85: 'ADDataController::get'}}}}})
+2024-12-07 03:11:19.462493 ║INFO	║ 3444439	║   7.335 >> arg#0 payloadable: False
+2024-12-07 03:11:19.464186 ║INFO	║ 3444439	║   7.336 >> pvf called file_get_contents(realpath({365: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.464909 ║INFO	║ 3444439	║   7.337 >> arg#0 payloadable: True
+2024-12-07 03:11:19.465621 ║INFO	║ 3444439	║   7.338 >> arg#0 payloadable: True
+2024-12-07 03:11:19.466240 ║INFO	║ 3444439	║   7.338 >> arg#0 payloadable: True
+2024-12-07 03:11:19.467120 ║INFO	║ 3444439	║   7.339 >> pvf called echo(((string)file_get_contents(realpath({365: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.467739 ║INFO	║ 3444439	║   7.340 >> arg#0 payloadable: True
+2024-12-07 03:11:19.579603 ║INFO	║ 3444439	║   7.452 >> pvf called call_user_func({371: {162: {92: {162: {92: 'AuthController::reglog'}}}}})
+2024-12-07 03:11:19.579841 ║INFO	║ 3444439	║   7.452 >> arg#0 payloadable: False
+2024-12-07 03:11:19.581820 ║INFO	║ 3444439	║   7.454 >> pvf called file_get_contents(realpath({381: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.582491 ║INFO	║ 3444439	║   7.455 >> arg#0 payloadable: True
+2024-12-07 03:11:19.583180 ║INFO	║ 3444439	║   7.455 >> arg#0 payloadable: True
+2024-12-07 03:11:19.583805 ║INFO	║ 3444439	║   7.456 >> arg#0 payloadable: True
+2024-12-07 03:11:19.584318 ║INFO	║ 3444439	║   7.456 >> pvf called echo(((string)file_get_contents(realpath({381: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.584912 ║INFO	║ 3444439	║   7.457 >> arg#0 payloadable: True
+2024-12-07 03:11:19.587866 ║INFO	║ 3444439	║   7.460 >> pvf called call_user_func({387: {162: {99: {162: {99: 'AuthController::reglog'}}}}})
+2024-12-07 03:11:19.588061 ║INFO	║ 3444439	║   7.460 >> arg#0 payloadable: False
+2024-12-07 03:11:19.589645 ║INFO	║ 3444439	║   7.462 >> pvf called file_get_contents(realpath({397: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.590363 ║INFO	║ 3444439	║   7.462 >> arg#0 payloadable: True
+2024-12-07 03:11:19.664146 ║INFO	║ 3444439	║   7.536 >> arg#0 payloadable: True
+2024-12-07 03:11:19.665018 ║INFO	║ 3444439	║   7.537 >> arg#0 payloadable: True
+2024-12-07 03:11:19.666331 ║INFO	║ 3444439	║   7.538 >> pvf called echo(((string)file_get_contents(realpath({397: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.674394 ║INFO	║ 3444439	║   7.540 >> arg#0 payloadable: True
+2024-12-07 03:11:19.676539 ║INFO	║ 3444638	║   0.092 >> Classtree created: True, found 12 classes
+2024-12-07 03:11:19.681574 ║INFO	║ 3444439	║   7.554 >> pvf called call_user_func({403: {162: {106: {162: {106: 'AuthController::index'}}}}})
+2024-12-07 03:11:19.681764 ║INFO	║ 3444439	║   7.554 >> arg#0 payloadable: False
+2024-12-07 03:11:19.683392 ║INFO	║ 3444439	║   7.555 >> pvf called file_get_contents(realpath({413: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.683965 ║INFO	║ 3444439	║   7.556 >> arg#0 payloadable: True
+2024-12-07 03:11:19.685070 ║INFO	║ 3444439	║   7.557 >> arg#0 payloadable: True
+2024-12-07 03:11:19.685703 ║INFO	║ 3444439	║   7.558 >> arg#0 payloadable: True
+2024-12-07 03:11:19.686252 ║INFO	║ 3444439	║   7.558 >> pvf called echo(((string)file_get_contents(realpath({413: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.686846 ║INFO	║ 3444439	║   7.559 >> arg#0 payloadable: True
+2024-12-07 03:11:19.690039 ║INFO	║ 3444439	║   7.562 >> pvf called call_user_func({419: {162: {113: {162: {113: 'AuthController::index'}}}}})
+2024-12-07 03:11:19.690254 ║INFO	║ 3444439	║   7.562 >> arg#0 payloadable: False
+2024-12-07 03:11:19.691973 ║INFO	║ 3444439	║   7.564 >> pvf called file_get_contents(realpath({429: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.692586 ║INFO	║ 3444439	║   7.565 >> arg#0 payloadable: True
+2024-12-07 03:11:19.693426 ║INFO	║ 3444439	║   7.565 >> arg#0 payloadable: True
+2024-12-07 03:11:19.694058 ║INFO	║ 3444439	║   7.566 >> arg#0 payloadable: True
+2024-12-07 03:11:19.694596 ║INFO	║ 3444439	║   7.567 >> pvf called echo(((string)file_get_contents(realpath({429: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.695267 ║INFO	║ 3444439	║   7.567 >> arg#0 payloadable: True
+2024-12-07 03:11:19.704294 ║INFO	║ 3444439	║   7.576 >> pvf called call_user_func({435: {162: {120: {162: {120: 'CurrencyController::currency'}}}}})
+2024-12-07 03:11:19.704498 ║INFO	║ 3444439	║   7.577 >> arg#0 payloadable: False
+2024-12-07 03:11:19.776635 ║INFO	║ 3444439	║   7.649 >> pvf called file_get_contents(realpath({445: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.777451 ║INFO	║ 3444439	║   7.650 >> arg#0 payloadable: True
+2024-12-07 03:11:19.778498 ║INFO	║ 3444439	║   7.651 >> arg#0 payloadable: True
+2024-12-07 03:11:19.779856 ║INFO	║ 3444439	║   7.652 >> arg#0 payloadable: True
+2024-12-07 03:11:19.780503 ║INFO	║ 3444439	║   7.653 >> pvf called echo(((string)file_get_contents(realpath({445: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.781332 ║INFO	║ 3444439	║   7.653 >> arg#0 payloadable: True
+2024-12-07 03:11:19.784345 ║INFO	║ 3444439	║   7.656 >> pvf called call_user_func({451: {162: {127: {162: {127: 'KopilkaController::kopilkacreate'}}}}})
+2024-12-07 03:11:19.784572 ║INFO	║ 3444439	║   7.657 >> arg#0 payloadable: False
+2024-12-07 03:11:19.786096 ║INFO	║ 3444439	║   7.658 >> pvf called file_get_contents(realpath({461: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.786687 ║INFO	║ 3444439	║   7.659 >> arg#0 payloadable: True
+2024-12-07 03:11:19.787414 ║INFO	║ 3444439	║   7.659 >> arg#0 payloadable: True
+2024-12-07 03:11:19.788016 ║INFO	║ 3444439	║   7.660 >> arg#0 payloadable: True
+2024-12-07 03:11:19.788526 ║INFO	║ 3444439	║   7.661 >> pvf called echo(((string)file_get_contents(realpath({461: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.789101 ║INFO	║ 3444439	║   7.661 >> arg#0 payloadable: True
+2024-12-07 03:11:19.802133 ║INFO	║ 3444439	║   7.674 >> pvf called call_user_func({467: {162: {134: {162: {134: 'KopilkaController::kopilkalist'}}}}})
+2024-12-07 03:11:19.802322 ║INFO	║ 3444439	║   7.674 >> arg#0 payloadable: False
+2024-12-07 03:11:19.803915 ║INFO	║ 3444439	║   7.676 >> pvf called file_get_contents(realpath({477: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.804515 ║INFO	║ 3444439	║   7.677 >> arg#0 payloadable: True
+2024-12-07 03:11:19.805330 ║INFO	║ 3444439	║   7.677 >> arg#0 payloadable: True
+2024-12-07 03:11:19.805954 ║INFO	║ 3444439	║   7.678 >> arg#0 payloadable: True
+2024-12-07 03:11:19.806786 ║INFO	║ 3444439	║   7.679 >> pvf called echo(((string)file_get_contents(realpath({477: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.807372 ║INFO	║ 3444439	║   7.679 >> arg#0 payloadable: True
+2024-12-07 03:11:19.810270 ║INFO	║ 3444439	║   7.682 >> pvf called call_user_func({483: {162: {141: {162: {141: 'KopilkaController::kopilkainfo'}}}}})
+2024-12-07 03:11:19.810448 ║INFO	║ 3444439	║   7.683 >> arg#0 payloadable: False
+2024-12-07 03:11:19.895886 ║INFO	║ 3444439	║   7.768 >> pvf called file_get_contents(realpath({493: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))
+2024-12-07 03:11:19.896586 ║INFO	║ 3444439	║   7.769 >> arg#0 payloadable: True
+2024-12-07 03:11:19.897275 ║INFO	║ 3444439	║   7.769 >> arg#0 payloadable: True
+2024-12-07 03:11:19.897916 ║INFO	║ 3444439	║   7.770 >> arg#0 payloadable: True
+2024-12-07 03:11:19.898412 ║INFO	║ 3444439	║   7.770 >> pvf called echo(((string)file_get_contents(realpath({493: ('static/' . implode('/', {150: array(0 => {158: {151: explode('?', explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/'))[<anykey(explode('/', trim({148: $_SERVER['REQUEST_URI'], 149: ''}, '/')))>])[...]}}, ...)}))}))))
+2024-12-07 03:11:19.898970 ║INFO	║ 3444439	║   7.771 >> arg#0 payloadable: True
+2024-12-07 03:11:19.899763 ║INFO	║ 3444439	║   7.772 >> pvf called echo('Not found. 404')
+2024-12-07 03:11:19.899840 ║INFO	║ 3444439	║   7.772 >> arg#0 payloadable: False
+2024-12-07 03:11:25.164714 ║INFO	║ 3444638	║   5.580 >> 0 public methods found
+2024-12-07 03:11:25.164885 ║INFO	║ 3444638	║   5.580 >> 0 actions found
+2024-12-07 03:11:25.164981 ║INFO	║ 3444638	║   5.580 >> 0 methods to scan in pp mode
+2024-12-07 03:11:46.609443 ║ERROR	║ 3443408	║  67.426 >> Exception parsing /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/static/meme5.jpg, no element found: line 1, column 0
+2024-12-07 03:11:46.609897 ║INFO	║ 3443408	║  67.427 >> 0 public methods found
+2024-12-07 03:11:46.609930 ║INFO	║ 3443408	║  67.427 >> 0 actions found
+2024-12-07 03:11:46.609953 ║INFO	║ 3443408	║  67.427 >> 0 methods to scan in pp mode
+2024-12-07 03:11:53.398717 ║INFO	║ 3444439	║  41.271 >> 0 public methods found
+2024-12-07 03:11:53.398836 ║INFO	║ 3444439	║  41.271 >> 0 actions found
+2024-12-07 03:11:53.398866 ║INFO	║ 3444439	║  41.271 >> 0 methods to scan in pp mode

@@ -1,0 +1,8 @@
+﻿#Thread(1) 2024-12-07 3:06:34.737: INFO: Platform: x64, framework: .NETCoreApp,Version=v6.0
+#Thread(1) 2024-12-07 3:06:34.761: INFO: Core version 1.5.0.0, started with command line: /home/amir/application-inspector-analyzer/utils/python/JSA.dll --connection-type Socket -p 34633 --disable-memory-limit false --free-memory-percent-limit 14 --logs-dir /home/amir/CTF/MCTF/2024/Stud/final/.ai/Logs/Infrastructure/2024-12-07-03-06-28/Python --language python
+#Thread(11) 2024-12-07 3:06:39.430: INFO: Selected language provider: JSA.PythonProvider v1.7.3.0
+#Thread(13) 2024-12-07 3:10:37.481: ERROR: Can't determine a dependency manager.
+#Thread(18) 2024-12-07 3:11:54.803: INFO: Initializing custom knowledge base.
+#Thread(18) 2024-12-07 3:11:54.809: INFO: Loading custom knowledge base from folder /home/amir/application-inspector-analyzer/utils/python/Scripts.
+#Thread(18) 2024-12-07 3:11:54.824: INFO: Custom knowledge base initialized.
+#Thread(18) 2024-12-07 3:12:02.022: INFO: Scan successfully finished!

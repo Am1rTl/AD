@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .header {
+            background-color: rgb(149, 234, 138);
+            color: rgb(66, 66, 66);
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15%;
+        }
+
+        .logo {
+            display: inline-block;
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 28px;
+            width: 28px;
+            margin-right: 10px;
+        }
+
+        .menu {
+            display: inline-block;
+            display: flex;
+            gap: 20px;
+        }
+
+        .menu a {
+            text-decoration: none;
+            color: rgb(66, 66, 66);
+            font-size: 18px;
+        }
+
+        .image {
+            display: inline-block;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+        }
+
+        .image img {
+            height: 28px;
+            width: 28px;
+            margin-left: 10px;
+        }
+
+        .divider {
+            border-top: 1px solid black;
+            margin-top: 10px;
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .form-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .form-container input, .form-container textarea {
+            width: 80%;
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .form-container textarea {
+            resize: vertical;
+            height: 100px;
+        }
+
+        .form-container button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .form-container button:hover {
+            background-color: #45a049;
+        }
+
+        .content {
+            margin: 0 10%;
+        }
+
+        .content2 {
+            margin: 0 30%;
+        }
+
+        .form-container {
+            margin-top: 25%;
+        }
+
+        img {
+            background: transparent;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="/logo.png" alt="Логотип">
+            <span>БАНК</span>
+        </div>
+        <div class="menu">
+            <a href="/">Главная страница</a>
+            <a href="/kopilka/list">Копилки</a>
+            <a href="/kopilka/create">Создать копилку</a>
+            <a href="/balance">Валюты</a>
+        </div>
+        <div class="image">
+            <span id="nameField">EXAMPLE UUID LMAO</span>
+            <img src="/user.png" alt="Картинка пользователя">&nbsp;&nbsp;&nbsp;<button style="background-color: #4CAF50;color: white;border: none;border-radius: 5px;cursor: pointer;font-size: 16px;" onclick="window.location='/api/logout'">Выйти</button>
+        </div>
+    </header>
+
+    <div class="content2">
+        <div class="form-container">
+            <h2>Создать новую копилку</h2>
+            <form action="/api/kopilka/create" method="POST" enctype="application/x-www-form-urlencoded">
+                <div>
+                    <input type="text" id="piggybank-name" name="title" placeholder="Введите название копилки" required>
+                </div>
+                <div>
+                    <input type="number" id="goal" name="goal" placeholder="Введите цель накопления(в рублях)" required>
+                </div>
+                <div>
+                    <textarea id="description" name="description" placeholder="Введите описание копилки" required></textarea>
+                </div>
+                <div>
+                    <button type="submit">Создать копилку</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+<script src="https://cdn.jsdelivr.net/npm/jwt-decode/build/jwt-decode.min.js"></script>
+<script>
+    function getCookie(name) {
+        const cookies = document.cookie.split(';').map(cookie => cookie.trim());
+        for (const cookie of cookies) {
+            if (cookie.startsWith(name + '=')) {
+                return cookie.substring(name.length + 1);
+            }
+        }
+        return null;
+    }
+
+    try {
+        const jwt = getCookie('session');
+        if (!jwt) {
+            console.error('JWT не найден в cookies.');
+        } else {
+
+            const decoded = jwt_decode(jwt);
+            const uuid = decoded.uuid;
+
+            if (uuid) {
+                const elementId = 'nameField';
+                const element = document.getElementById(elementId);
+                if (element) {
+                    element.textContent = uuid;
+                } else {
+                    console.error(`Элемент с id "${elementId}" не найден.`);
+                }
+            } else {
+                console.error('Поле "uuid" не найдено в JWT.');
+            }
+        }
+    } catch (error) {
+        console.error('Ошибка обработки JWT:', error);
+    }
+</script>
+
+</body>
+</html>

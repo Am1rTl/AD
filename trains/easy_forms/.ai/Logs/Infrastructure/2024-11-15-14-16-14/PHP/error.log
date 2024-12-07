@@ -1,4 +1,0 @@
-2024-11-15 14:16:47.914515 ║ERROR	║ 39149	║  11.713 >> Exception parsing /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.ec024da.woff2, no element found: line 1, column 0
-2024-11-15 14:16:48.246253 ║ERROR	║ 39146	║  12.045 >> Exception parsing /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.1fcc362.ttf, no element found: line 1, column 0
-2024-11-15 14:16:48.945881 ║ERROR	║ 39164	║  12.702 >> Exception parsing /home/amir/CTF/MCTF/2024/AD/easy_forms/static/_nuxt/fonts/materialdesignicons-webfont.e55a20c.woff, no element found: line 1, column 0
-2024-11-15 14:16:49.500312 ║ERROR	║ 39564	║   0.178 >> Exception parsing /home/amir/CTF/MCTF/2024/AD/easy_forms/src/app/Enums/FormInputTypes.php, 'Stmt_Enum'

@@ -1,6 +1,0 @@
-ParsingException in "/home/amir/CTF/MCTF/2024/AD/dinoex/app/public/js/bootstrap.min.js": Esprima.ParserException: Line 54: Unexpected token ILLEGAL
-   at Esprima.Scanner.ThrowUnexpectedToken(String message)
-   at Esprima.Scanner.GetComplexIdentifier()
-   at Esprima.Scanner.ScanIdentifier(Boolean allowEscapes)
-   at Esprima.Scanner.Lex(LexOptions& options)
-   at PT.PM.JavaScriptParseTreeUst.JavaScriptEsprimaParser.Parse(TextFile sourceFile, TextFile parseUnit, TimeSpan& parseTimeSpan, Boolean asModule).

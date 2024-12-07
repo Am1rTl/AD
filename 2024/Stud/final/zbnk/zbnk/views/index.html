@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .header {
+            background-color: rgb(149, 234, 138);
+            color: rgb(66, 66, 66);
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15%;
+        }
+
+        .logo {
+            display: inline-block;
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 28px;
+            width: 28px;
+            margin-right: 10px;
+        }
+
+        .menu {
+            display: inline-block;
+            display: flex;
+            gap: 20px;
+        }
+
+        .menu a {
+            text-decoration: none;
+            color: rgb(66, 66, 66);
+            font-size: 18px;
+        }
+
+        .image {
+            display: inline-block;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+        }
+
+        .image img {
+            height: 28px;
+            width: 28px;
+            margin-left: 10px;
+        }
+
+        .main-text {
+            text-align: center;
+            margin: 20px 10%;
+            font-size: 24px;
+            line-height: 1.5;
+        }
+
+        .image-section {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10%;
+            margin: 20px 10%;
+        }
+
+        .image-item {
+            text-align: center;
+            max-width: 400px;
+        }
+
+        .image-item img {
+            margin-top: 8%;
+            width: auto;
+            max-height: 250px;
+            height: 100%;
+            border-radius: 8px;
+        }
+
+        .image-item span {
+            text-align: center;
+            display: inline-block;
+            width: 100%;
+            margin-top: 10px;
+            font-size: 16px;
+            color: #555;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px 10%;
+            font-size: 14px;
+            color: #777;
+            background-color: #e9e9e9;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="/logo.png" alt="Логотип">
+            <span>БАНК</span>
+        </div>
+        <div class="menu">
+            <a href="/">Главная страница</a>
+            <a href="/login">Логин</a>
+            <a href="/register">Регистрация</a>
+        </div>
+        <div class="image">
+            <span>Guest</span>
+            <img type="image/svg+xml" src="/guest.png" alt="Картинка пользователя">
+        </div>
+    </header>
+
+    <div class="main-text">
+        О нас:
+    </div>
+
+    <div class="image-section">
+        <div class="image-item">
+            <img src="meme1.jpeg" alt="Услуга 1">
+            <span>Выдадим вам кредиты на необходимые вещи</span>
+        </div>
+        <div class="image-item">
+            <img src="meme2.jpeg" alt="Услуга 2">
+            <span>Горячие путёвки</span>
+        </div>
+        <div class="image-item">
+            <img src="meme3.jpeg" alt="Услуга 3">
+            <span>С нами вы прочувствуете стабильность рынка</span>
+        </div>
+        <br>
+        <div class="image-item">
+            <img src="meme4.jpg" alt="Услуга 3">
+            <span>Наша команда состоит из креативных людей, некоторые даже выращивают орешник</span>
+        </div>
+        <div class="image-item">
+            <img src="meme5.jpg" alt="Услуга 3">
+            <span>Мы стоим горой за ваш капитал</span>
+        </div>
+        <br>
+        <div class="image-item">
+            <img src="meme6.png" style="height: 40%; margin-top: 15%;" alt="Услуга 3">
+            <span>С нами работают лучшие клиники</span>
+        </div>
+    </div>
+
+    <div class="footer">
+        Мы никого не оскорбляем. Надеемся на ваше понимание. :)
+    </div>
+</body>
+</html>

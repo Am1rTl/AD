@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Получение данных</title>
+    <style>
+        body {
+            background-color: black;
+            color: yellow;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .form-container {
+            margin: 50px auto;
+            width: 300px;
+            margin-top: 15%;
+        }
+        .input-field {
+            background: none;
+            border: none;
+            border-bottom: 2px solid yellow;
+            color: yellow;
+            font-size: 16px;
+            width: 100%;
+            margin-bottom: 20px;
+            outline: none;
+            padding: 5px;
+        }
+        .button {
+            background-color: black;
+            border: 2px solid yellow;
+            color: yellow;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .button:hover {
+            background-color: yellow;
+            color: black;
+        }
+        .hidden-table {
+            display: none;
+            margin: 20px auto;
+            width: 50%;
+            border-collapse: collapse;
+        }
+        .hidden-table th, .hidden-table td {
+            border: 1px solid yellow;
+            padding: 10px;
+            color: yellow;
+        }
+        .hidden-table th {
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>Купить данные о пользователе</h1>
+        <form id="user-form" action="/dump" method="post" enctype="application/x-www-form-urlencoded">
+            <input type="text" class="input-field" name="userUUID" id="username" placeholder="Введите имя" required>
+            <input type="text" hidden name="verify" value="1" required>
+            <button type="submit" class="button" >Получить данные</button>
+        </form>
+    </div>
+</body>
+</html>

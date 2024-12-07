@@ -1,0 +1,9 @@
+{
+    frankenphp
+}
+
+:8080 {
+    root * /app
+    rewrite * main.php
+    php_server
+}

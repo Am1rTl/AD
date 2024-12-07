@@ -1,0 +1,38 @@
+services:
+  doom:
+    build: code/
+    restart: unless-stopped
+    ports:
+      - "666:666"
+    networks:
+      - doom
+    volumes:
+      - ./code/maps:/task/maps
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 500M
+  db:
+    build: db/
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: doom
+      POSTGRES_PASSWORD: secretpassword123
+      PGDATA: /data/postgres
+    volumes:
+       - postgres:/data/postgres
+    networks:
+      - doom
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 500M
+
+networks:
+  doom: {}
+
+volumes:
+    postgres: {}

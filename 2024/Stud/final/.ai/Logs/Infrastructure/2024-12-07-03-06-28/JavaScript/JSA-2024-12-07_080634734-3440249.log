@@ -1,0 +1,245 @@
+﻿#Thread(1) 2024-12-07 3:06:34.741: INFO: Platform: x64, framework: .NETCoreApp,Version=v5.0
+#Thread(1) 2024-12-07 3:06:34.756: INFO: Core version 1.5.0.0, started with command line: /home/amir/application-inspector-analyzer/utils/jsa/JSA.dll --connection-type Socket -p 34929 --disable-memory-limit false --free-memory-percent-limit 14 --logs-dir /home/amir/CTF/MCTF/2024/Stud/final/.ai/Logs/Infrastructure/2024-12-07-03-06-28/JavaScript
+#Thread(10) 2024-12-07 3:06:39.151: INFO: Selected language provider: JSA.JavaScriptProvider v1.5.10.0
+#Thread(9) 2024-12-07 3:06:42.830: ERROR: /home/amir/CTF/MCTF/2024/Stud/final has no /home/amir/CTF/MCTF/2024/Stud/final/package.json to restore JS packages.
+#Thread(9) 2024-12-07 3:06:47.987: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:06:47.987: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/vite.config.js caused an error.
+#Thread(9) 2024-12-07 3:06:47.988: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:06:54.516: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:06:54.516: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/eslint.config.js caused an error.
+#Thread(9) 2024-12-07 3:06:54.516: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:00.788: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:00.788: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/tailwind.config.js caused an error.
+#Thread(9) 2024-12-07 3:07:00.788: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:07.014: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:07.015: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/postcss.config.js caused an error.
+#Thread(9) 2024-12-07 3:07:07.015: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:13.351: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:13.351: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/blinbin/frontend/tailwind.config.js caused an error.
+#Thread(9) 2024-12-07 3:07:13.351: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:20.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:20.028: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/blinbin/frontend/babel.config.js caused an error.
+#Thread(9) 2024-12-07 3:07:20.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:26.318: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:26.318: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/blinbin/frontend/postcss.config.js caused an error.
+#Thread(9) 2024-12-07 3:07:26.318: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:34.102: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:34.102: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/blinbin/frontend/vue.config.js caused an error.
+#Thread(9) 2024-12-07 3:07:34.103: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:42.311: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:42.311: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/app.js caused an error.
+#Thread(9) 2024-12-07 3:07:42.311: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:49.383: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:49.383: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/main.js caused an error.
+#Thread(9) 2024-12-07 3:07:49.383: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:57.260: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:07:57.260: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/App.js caused an error.
+#Thread(9) 2024-12-07 3:07:57.260: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:05.310: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:05.310: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/blinbin/frontend/src/main.js caused an error.
+#Thread(9) 2024-12-07 3:08:05.311: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:12.864: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:12.864: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/models/participation.js caused an error.
+#Thread(9) 2024-12-07 3:08:12.864: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:20.362: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:20.362: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/models/event.js caused an error.
+#Thread(9) 2024-12-07 3:08:20.362: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.025: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.025: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/models/user.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.025: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/models/index.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/routes/userRoutes.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/routes/eventRoutes.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/routes/index.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.026: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/routes/authRoutes.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/controllers/userController.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/controllers/eventController.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/controllers/authController.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/config/database.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.027: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/middleware/auth.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/backend/src/services/userService.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/pages/Register.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/pages/Login.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/api/client.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.028: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/components/LoadingSpinner.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/components/PrivateRoute.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/components/Layout.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/components/Snowfall.js caused an error.
+#Thread(9) 2024-12-07 3:08:28.029: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:35.793: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:35.793: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/components/Navbar.js caused an error.
+#Thread(9) 2024-12-07 3:08:35.794: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:35.794: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:35.794: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/contexts/AuthContext.js caused an error.
+#Thread(9) 2024-12-07 3:08:35.795: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/blinbin/frontend/src/router/index.js caused an error.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/pages/events/BulkImport.js caused an error.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/pages/events/EventList.js caused an error.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.593: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/pages/events/CreateEvent.js caused an error.
+#Thread(9) 2024-12-07 3:08:43.594: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.594: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:43.594: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/approve_me/frontend/src/pages/events/ManageEvent.js caused an error.
+#Thread(9) 2024-12-07 3:08:43.687: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:49.795: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:49.795: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/vite.config.js caused an error.
+#Thread(9) 2024-12-07 3:08:49.795: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:56.124: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:08:56.124: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/eslint.config.js caused an error.
+#Thread(9) 2024-12-07 3:08:56.126: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:02.266: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:02.266: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/tailwind.config.js caused an error.
+#Thread(9) 2024-12-07 3:09:02.266: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:08.410: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:08.410: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/postcss.config.js caused an error.
+#Thread(9) 2024-12-07 3:09:08.413: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:16.399: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:16.399: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/tailwind.config.js caused an error.
+#Thread(9) 2024-12-07 3:09:16.399: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:23.909: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:23.909: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/babel.config.js caused an error.
+#Thread(9) 2024-12-07 3:09:23.909: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:31.226: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:31.226: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/postcss.config.js caused an error.
+#Thread(9) 2024-12-07 3:09:31.226: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:37.919: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:37.919: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/vue.config.js caused an error.
+#Thread(9) 2024-12-07 3:09:37.923: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:46.112: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:46.112: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/app.js caused an error.
+#Thread(9) 2024-12-07 3:09:46.113: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:52.550: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:09:52.550: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/main.js caused an error.
+#Thread(9) 2024-12-07 3:09:52.550: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:00.565: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:00.565: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/App.js caused an error.
+#Thread(9) 2024-12-07 3:10:00.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:07.643: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:07.643: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/main.js caused an error.
+#Thread(9) 2024-12-07 3:10:07.643: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:14.458: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:14.458: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/participation.js caused an error.
+#Thread(9) 2024-12-07 3:10:14.458: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:21.337: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:21.337: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/event.js caused an error.
+#Thread(9) 2024-12-07 3:10:21.338: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.564: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.564: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/user.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.565: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.565: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.565: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/index.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.565: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.565: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.565: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/userRoutes.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/eventRoutes.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/index.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.566: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/authRoutes.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/controllers/userController.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/controllers/eventController.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.567: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/controllers/authController.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/config/database.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.568: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/middleware/auth.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/services/userService.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/Register.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.569: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/Login.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/api/client.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/LoadingSpinner.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.570: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/PrivateRoute.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/Layout.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/Snowfall.js caused an error.
+#Thread(9) 2024-12-07 3:10:29.571: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.339: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.339: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/Navbar.js caused an error.
+#Thread(9) 2024-12-07 3:10:37.339: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.339: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.339: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/contexts/AuthContext.js caused an error.
+#Thread(9) 2024-12-07 3:10:37.344: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.344: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.344: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/router/index.js caused an error.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/BulkImport.js caused an error.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/EventList.js caused an error.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/CreateEvent.js caused an error.
+#Thread(9) 2024-12-07 3:10:37.345: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.346: ERROR: Bytecode collector execution failed.
+#Thread(9) 2024-12-07 3:10:37.346: ERROR: Reading bytecode collector result for /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/JavaScript/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/ManageEvent.js caused an error.
+#Thread(18) 2024-12-07 3:11:54.588: INFO: No valid entry points found.
+#Thread(14) 2024-12-07 3:12:02.281: INFO: Scan successfully finished!

@@ -1,5 +1,0 @@
-08:52:06.847  ERROR  @JavaScriptProcessor: Error "UnknownError"(null) was received with message:
-
-  /home/amir/CTF/MCTF/2024/AD/dinoex has no /home/amir/CTF/MCTF/2024/AD/dinoex/package.json to restore JS packages.
-
-09:39:13.979  ERROR  Set Inaccurate state from previous scan result.

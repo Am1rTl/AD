@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  app:
+    build: ./backend/
+    container_name: ${PROJECT_NAME:-node_backend}_app
+    ports:
+      - "${PORT:-3000}:3000"
+    depends_on:
+      - db
+    environment:
+      - NODE_ENV=development
+      - PORT=${PORT:-3000}
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USERNAME=${DB_USERNAME:-postgres}
+      - DB_PASSWORD=${DB_PASSWORD:-postgres}
+      - DB_NAME=${DB_NAME:-node_backend_db}
+      - JWT_SECRET=SecretKey1123_4567_890_ZXCAFG-SecretKey1337
+    command: sh -c "/wait-for-it.sh db -- npm run dev"
+    networks:
+      - backend-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 500M
+
+
+  db:
+    image: postgres:15-alpine
+    container_name: ${PROJECT_NAME:-node_backend}_db
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=${DB_USERNAME:-postgres}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-postgres}
+      - POSTGRES_DB=${DB_NAME:-node_backend_db}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - backend-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 500M
+
+  frontend:
+    build: 
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - app
+    environment:
+      - VITE_API_URL=http://localhost:3000/api
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 500M
+
+volumes:
+  postgres_data:
+
+networks:
+  backend-network:
+    driver: bridge 

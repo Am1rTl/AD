@@ -1,8 +1,0 @@
-2024-11-15 14:44:43.786745 ║INFO	║ 73920	║   0.414 >> Classtree created: True, found 36 classes
-2024-11-15 14:44:43.798788 ║INFO	║ 73920	║   0.425 >> Preprocessing zend
-2024-11-15 14:44:43.800883 ║INFO	║ 73920	║   0.428 >> [Zend] Registered 0 routes
-2024-11-15 14:44:43.801083 ║INFO	║ 73920	║   0.428 >> Preprocessing symfony
-2024-11-15 14:44:43.803018 ║INFO	║ 73920	║   0.430 >> [Symfony] Registered 0 routes
-2024-11-15 14:44:43.803177 ║INFO	║ 73920	║   0.430 >> Preprocessing laravel
-2024-11-15 14:44:43.803778 ║INFO	║ 73920	║   0.431 >> [Laravel] Found routes file: /home/amir/CTF/MCTF/2024/AD/easy_forms/src/routes/api.php
-2024-11-15 14:44:43.806957 ║INFO	║ 73920	║   0.434 >> [Laravel] Registered 0 routes, 0 viewers

@@ -1,0 +1,3 @@
+2024-12-07 03:10:48.520226 ║ERROR	║ 3443620	║   0.225 >> Exception parsing /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/userModel.php, 'UnionType'
+2024-12-07 03:10:53.489251 ║ERROR	║ 3443729	║   0.242 >> Exception parsing /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/kopilkaMemberModel.php, 'UnionType'
+2024-12-07 03:11:46.609506 ║ERROR	║ 3443408	║  67.426 >> Exception parsing /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/static/meme5.jpg, no element found: line 1, column 0

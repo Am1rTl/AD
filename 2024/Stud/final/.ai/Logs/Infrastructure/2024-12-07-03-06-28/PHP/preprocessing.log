@@ -1,0 +1,9 @@
+2024-12-07 03:06:42.421943 ║INFO	║ 3440409	║   2.605 >> archive extention detected: .zip
+2024-12-07 03:06:42.540592 ║INFO	║ 3440409	║   2.724 >> archive file extracted successfully
+2024-12-07 03:06:42.754292 ║INFO	║ 3440409	║   2.937 >> Classtree created: True, found 12 classes
+2024-12-07 03:06:42.770436 ║INFO	║ 3440409	║   2.953 >> Preprocessing zend
+2024-12-07 03:06:42.773285 ║INFO	║ 3440409	║   2.956 >> [Zend] Registered 0 routes
+2024-12-07 03:06:42.773768 ║INFO	║ 3440409	║   2.957 >> Preprocessing symfony
+2024-12-07 03:06:42.776604 ║INFO	║ 3440409	║   2.960 >> [Symfony] Registered 0 routes
+2024-12-07 03:06:42.776760 ║INFO	║ 3440409	║   2.960 >> Preprocessing laravel
+2024-12-07 03:06:42.778725 ║INFO	║ 3440409	║   2.962 >> [Laravel] Registered 0 routes, 0 viewers

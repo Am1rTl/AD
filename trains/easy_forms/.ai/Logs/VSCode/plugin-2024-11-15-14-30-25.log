@@ -1,6 +1,0 @@
-[11/15/2024, 2:30:25 PM] info: Logging was started to file.
-[11/15/2024, 2:30:25 PM] info: Start application inspector initialization
-[11/15/2024, 2:30:25 PM] info: Hide developer mode UI
-[11/15/2024, 2:30:25 PM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"/home/amir/application-inspector-analyzer","applicationResourcesFolderPath":"/home/amir/application-inspector-analyzer","scanTargetFolderPath":"/home/amir/CTF/MCTF/2024/AD/easy_forms","isDebugging":false,"logLevel":{"q8_1":"Error","r8_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"/home/amir/CTF/MCTF/2024/AD/easy_forms/.ai/Logs/Infrastructure/2024-11-15-14-30-25","tipsFoundNotificationThreshold":1000,"similarIssuesFoundNotificationThreshold":1000,"applicationLocalDataFolderPath":"/home/amir/CTF/MCTF/2024/AD/easy_forms/.ai"}
-[11/15/2024, 2:30:25 PM] info: Start infrastructure initialization
-[11/15/2024, 2:30:25 PM] info: Handled new configurationAieIntegrationServerUrl: 

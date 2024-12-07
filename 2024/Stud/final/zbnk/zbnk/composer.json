@@ -1,0 +1,15 @@
+{
+    "require": {
+        "firebase/php-jwt": "6.10.1",
+        "mikehaertl/phpwkhtmltopdf": "2.5.0",
+        "ramsey/uuid": "4.7.6"
+    },
+    "autoload": {
+      "classmap": [
+        "lib/",
+        "controller/",
+        "model/",
+        "helper/"
+      ]
+    }
+}

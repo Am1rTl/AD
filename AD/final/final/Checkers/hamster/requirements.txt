@@ -1,5 +1,0 @@
-requests
-beautifulsoup4
-redis
-user_agent
-pyjwt

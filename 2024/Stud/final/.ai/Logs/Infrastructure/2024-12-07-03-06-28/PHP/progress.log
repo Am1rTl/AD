@@ -1,0 +1,30 @@
+2024-12-07 03:06:38.968669 ║INFO	║ 3440353	║   0.000 >> process AI3 init
+2024-12-07 03:06:39.538042 ║INFO	║ 3440353	║   0.569 >> Preprocessing started
+2024-12-07 03:06:42.826322 ║INFO	║ 3440353	║   3.858 >> Preprocessing finished
+2024-12-07 03:10:38.974882 ║INFO	║ 3440353	║ 240.006 >> Scan started
+2024-12-07 03:10:38.975742 ║INFO	║ 3440353	║   0.000 >> worker.run started
+2024-12-07 03:10:38.975913 ║INFO	║ 3440353	║   0.000 >> worker.run started
+2024-12-07 03:10:38.976496 ║INFO	║ 3440353	║   0.000 >> worker.run started
+2024-12-07 03:10:38.977362 ║INFO	║ 3440353	║   0.002 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/static/meme6.png
+2024-12-07 03:10:38.977875 ║INFO	║ 3440353	║   0.002 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/static/meme5.jpg
+2024-12-07 03:10:38.978078 ║INFO	║ 3440353	║   0.002 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/helper/currency.php
+2024-12-07 03:10:39.040435 ║INFO	║ 3440353	║   0.065 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/helper/jwt.php
+2024-12-07 03:10:39.052085 ║INFO	║ 3440353	║   0.077 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/balanceModel.php
+2024-12-07 03:10:43.699975 ║INFO	║ 3440353	║   4.725 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/userModel.php
+2024-12-07 03:10:43.707080 ║INFO	║ 3440353	║   4.732 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/kopilkaModel.php
+2024-12-07 03:10:48.565320 ║INFO	║ 3440353	║   9.590 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/model/kopilkaMemberModel.php
+2024-12-07 03:10:48.615458 ║INFO	║ 3440353	║   9.640 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/lib/router.php
+2024-12-07 03:10:53.526007 ║INFO	║ 3440353	║  14.551 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/lib/sqldispatcher.php
+2024-12-07 03:10:53.648771 ║INFO	║ 3440353	║  14.674 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/authController.php
+2024-12-07 03:10:58.165065 ║INFO	║ 3440353	║  19.190 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/kopilkaController.php
+2024-12-07 03:11:02.149267 ║INFO	║ 3440353	║  23.174 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/ADDataController.php
+2024-12-07 03:11:07.463221 ║INFO	║ 3440353	║  28.488 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/controller/currencyController.php
+2024-12-07 03:11:07.480997 ║INFO	║ 3440353	║  28.506 >> process file /home/amir/CTF/MCTF/2024/Stud/final/zbnk/zbnk/main.php
+2024-12-07 03:11:12.317064 ║INFO	║ 3440353	║  33.342 >> process file /home/amir/CTF/MCTF/2024/Stud/final/blinbin/frontend/public/index.html
+2024-12-07 03:11:16.539730 ║INFO	║ 3440353	║  37.565 >> process file /home/amir/CTF/MCTF/2024/Stud/final/blinbin/frontend/public/blinbin.ico
+2024-12-07 03:11:26.713786 ║INFO	║ 3440353	║  47.738 >> worker.run finished -1
+2024-12-07 03:11:47.794907 ║INFO	║ 3440353	║  68.820 >> worker.run finished -2
+2024-12-07 03:11:54.513373 ║INFO	║ 3440353	║  75.538 >> worker.run finished -3
+2024-12-07 03:11:54.514791 ║INFO	║ 3440353	║ 315.546 >> Scan finished
+2024-12-07 03:12:02.090432 ║INFO	║ 3440353	║ 323.122 >> Finalize
+2024-12-07 03:12:02.091170 ║INFO	║ 3440353	║ 323.122 >> Finalize done

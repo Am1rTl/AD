@@ -1,0 +1,37 @@
+services:
+  nginx:
+    build:
+      context: ./
+      dockerfile: ./docker/nginx.Dockerfile
+    ports:
+      - "0.0.0.0:2058:80"
+    depends_on:
+      - backend
+  db:
+    build:
+        context: ./
+        dockerfile: ./docker/db.Dockerfile
+    env_file: ./docker/prod.env
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "sh -c 'pg_isready -U blinbin -t 8'"]
+      interval: 10s
+      timeout: 3s
+      retries: 1
+    
+  backend:
+    env_file: ./docker/prod.env
+    build:
+      context: ./backend/
+      dockerfile: ../docker/app.Dockerfile
+    command: >
+      gunicorn wsgi:app --preload --workers=8 --forwarded-allow-ips=* --bind=0.0.0.0:7000 --log-level=info
+    healthcheck:
+      test: [ "CMD-SHELL", "curl --header 'User-Agent: healthcheck-curl' --fail http://127.0.0.1:7000/api/healthcheck/" ]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+    depends_on:
+      db:
+        condition: service_healthy
+

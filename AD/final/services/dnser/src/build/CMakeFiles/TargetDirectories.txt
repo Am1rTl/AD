@@ -1,4 +1,0 @@
-/var/tmp/dnser/build/CMakeFiles/dnser.dir
-/var/tmp/dnser/build/CMakeFiles/logic.dir
-/var/tmp/dnser/build/CMakeFiles/edit_cache.dir
-/var/tmp/dnser/build/CMakeFiles/rebuild_cache.dir

@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblogic.a CMakeFiles/logic.dir/logic/cmd.c.o CMakeFiles/logic.dir/logic/db.c.o
-/usr/bin/ranlib liblogic.a

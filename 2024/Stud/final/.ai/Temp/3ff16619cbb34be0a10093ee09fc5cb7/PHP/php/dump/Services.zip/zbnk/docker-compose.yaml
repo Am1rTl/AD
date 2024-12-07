@@ -1,0 +1,56 @@
+name: zbnk
+services:
+    zbnk:
+      build:
+        context: zbnk
+        dockerfile: Dockerfile
+      restart: unless-stopped
+      volumes:
+        - reports:/app/reports:rw
+      ports:
+        - "8080:8080"
+      depends_on:
+        db:
+          restart: true
+          condition: service_healthy
+      environment:
+        POSTGRES_DB: ${DB_NAME}
+        POSTGRES_USER: ${DB_USER}
+        POSTGRES_PASSWORD: ${DB_PASS}
+
+    blck:
+      build:
+        context: blck
+        dockerfile: Dockerfile
+      restart: unless-stopped
+      ports:
+        - "8081:8081"
+      depends_on:
+        db:
+          restart: true
+          condition: service_healthy
+      environment:
+       POSTGRES_DB: ${DB_NAME}
+       POSTGRES_USER: ${DB_USER}
+       POSTGRES_PASSWORD: ${DB_PASS}
+
+    db:
+      image: postgres:14-alpine
+      restart: unless-stopped
+      volumes:
+        - db-data:/var/lib/postgresql/data:rw
+        - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+      environment:
+        POSTGRES_DB: ${DB_NAME}
+        POSTGRES_USER: ${DB_USER}
+        POSTGRES_PASSWORD: ${DB_PASS}
+      healthcheck:
+        test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+        interval: 10s
+        retries: 5
+        start_period: 30s
+        timeout: 10s
+
+volumes:
+  reports:
+  db-data:

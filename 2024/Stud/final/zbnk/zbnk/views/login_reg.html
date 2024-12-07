@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .header {
+            background-color: rgb(149, 234, 138);
+            color: rgb(66, 66, 66);
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15%;
+        }
+
+        .logo {
+            display: inline-block;
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 28px;
+            width: 28px;
+            margin-right: 10px;
+        }
+
+        .menu {
+            display: inline-block;
+            display: flex;
+            gap: 20px;
+        }
+
+        .menu a {
+            text-decoration: none;
+            color: rgb(66, 66, 66);
+            font-size: 18px;
+        }
+
+        .image {
+            display: inline-block;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+        }
+
+        .image img {
+            height: 28px;
+            width: 28px;
+            margin-left: 10px;
+        }
+
+        .divider {
+            border-top: 1px solid black;
+            margin-top: 10px;
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .form-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .form-container input, .form-container textarea {
+            width: 80%;
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .form-container textarea {
+            resize: vertical;
+            height: 100px;
+        }
+
+        .form-container button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .form-container button:hover {
+            background-color: #45a049;
+        }
+
+        .content {
+            margin: 0 10%;
+        }
+
+        .form-container-wrapper {
+            display: flex;
+            justify-content: center;
+            gap: 100px;
+            margin-top: 20px;
+        }
+
+        .form-container-wrapper .form-container {
+            margin-top: 10%;
+            width: 30%;
+        }
+
+        img {
+            background: transparent;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="/logo.png" alt="Логотип">
+            <span>БАНК</span>
+        </div>
+        <div class="menu">
+            <a href="/">Главная страница</a>
+            <a href="/login">Логин</a>
+            <a href="/register">Регистрация</a>
+        </div>
+        <div class="image">
+            <span>Guest</span>
+            <img src="/guest.png" alt="Картинка пользователя">
+        </div>
+    </header>
+
+    <div class="content2">
+        <div class="form-container-wrapper">
+            <div class="form-container">
+                <h2>Логин</h2>
+                <form action="/api/login" method="POST" enctype="application/x-www-form-urlencoded">
+                    <div>
+                        <input type="text" id="piggybank-name1" name="uuid" placeholder="Введите Логин" required>
+                    </div>
+                    <div>
+                        <input type="password" id="goal1" name="password" placeholder="Введите пароль" required>
+                    </div>
+                    <div>
+                        <button type="submit">Логин</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="form-container">
+                <h2>Регистрация</h2>
+                <form action="/api/register" method="POST" enctype="application/x-www-form-urlencoded">
+                    <div>
+                        <input type="password" id="piggybank-name2" name="password" placeholder="Введите пароль" required>
+                    </div>
+                    <div>
+                        <input type="password" id="goal2" name="password2" placeholder="Повторите пароль" required>
+                    </div>
+                    <div>
+                        <button onclick="submit1()">Регистрация</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+<script>
+function submit1() {
+    var a = document.getElementById('piggybank-name2').value;
+    var b = document.getElementById('goal2').value;
+    if (a===b){
+        document.forms[2].submit();
+    } else {
+        alert("Пароли не одинаковые!")
+    }
+}
+</script>
+</body>
+</html>

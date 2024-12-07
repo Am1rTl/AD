@@ -1,0 +1,592 @@
+03:06:42.894  ERROR  @JavaScriptProcessor: Error "UnknownError"(null) was received with message:
+
+  /home/amir/CTF/MCTF/2024/Stud/final has no /home/amir/CTF/MCTF/2024/Stud/final/package.json to restore JS packages.
+
+03:12:02.238  ERROR  Some nodes has invalid scan status:
+
+  ./Services.zip/zbnk/zbnk/static/meme2.jpeg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/meme2.jpeg
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/meme5.jpg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/meme5.jpg
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/user.png
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/user.png
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/meme1.jpeg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/meme1.jpeg
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/meme4.jpg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/meme4.jpg
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/guest.png
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/guest.png
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/logo.png
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/logo.png
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/meme3.jpeg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/meme3.jpeg
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/static/meme6.png
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/static/meme6.png
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/helper/currency.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/helper/currency.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/helper/jwt.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/helper/jwt.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/model/balanceModel.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/model/balanceModel.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/model/userModel.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/model/userModel.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/model/kopilkaModel.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/model/kopilkaModel.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/model/kopilkaMemberModel.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/model/kopilkaMemberModel.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/lib/router.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/lib/router.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/lib/sqldispatcher.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/lib/sqldispatcher.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/controller/authController.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/controller/authController.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/controller/kopilkaController.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/controller/kopilkaController.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/controller/ADDataController.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/controller/ADDataController.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/controller/currencyController.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/controller/currencyController.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/index_logged.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/index_logged.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/index.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/index.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/create_kopilka.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/create_kopilka.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/kopilka_list_join.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/kopilka_list_join.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/kopilka_info.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/kopilka_info.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/login_reg.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/login_reg.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/views/currency.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/views/currency.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/main.php
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/main.php
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/php.ini
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/php.ini
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/Caddyfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/Caddyfile
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/composer.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/composer.json
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/zbnk/docker-entrypoint.sh
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/zbnk/docker-entrypoint.sh
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/blck/templates/index.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/blck/templates/index.html
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/blck/requirements.txt
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/blck/requirements.txt
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/blck/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/blck/Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/blck/main.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/blck/main.py
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/db/init.sql
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/db/init.sql
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/docker-compose.yaml
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/docker-compose.yaml
+    PHP, JavaScript, Python
+  ./Services.zip/zbnk/.env
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/zbnk/.env
+    PHP, JavaScript, Python
+  ./Services.zip/doom/code/maps/0.txt
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/code/maps/0.txt
+    PHP, JavaScript, Python
+  ./Services.zip/doom/code/maps/2.txt
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/code/maps/2.txt
+    PHP, JavaScript, Python
+  ./Services.zip/doom/code/maps/1.txt
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/code/maps/1.txt
+    PHP, JavaScript, Python
+  ./Services.zip/doom/code/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/code/Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/doom/code/doom
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/code/doom
+    PHP, JavaScript, Python
+  ./Services.zip/doom/code/server.sh
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/code/server.sh
+    PHP, JavaScript, Python
+  ./Services.zip/doom/db/db.sql
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/db/db.sql
+    PHP, JavaScript, Python
+  ./Services.zip/doom/db/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/db/Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/doom/docker-compose.yml
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/doom/docker-compose.yml
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/models/participation.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/participation.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/models/event.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/event.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/models/user.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/user.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/models/index.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/models/index.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/routes/userRoutes.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/userRoutes.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/routes/eventRoutes.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/eventRoutes.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/routes/index.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/index.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/routes/authRoutes.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/routes/authRoutes.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/controllers/userController.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/controllers/userController.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/controllers/eventController.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/controllers/eventController.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/controllers/authController.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/controllers/authController.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/config/database.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/config/database.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/middleware/auth.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/middleware/auth.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/services/userService.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/services/userService.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/src/app.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/src/app.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/package.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/package.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/package-lock.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/package-lock.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/backend/wait-for-it.sh
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/backend/wait-for-it.sh
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/assets/react.svg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/assets/react.svg
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/pages/events/BulkImport.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/BulkImport.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/pages/events/EventList.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/EventList.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/pages/events/CreateEvent.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/CreateEvent.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/pages/events/ManageEvent.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/events/ManageEvent.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/pages/Register.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/Register.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/pages/Login.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/pages/Login.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/api/client.ts
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/api/client.ts
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/components/LoadingSpinner.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/LoadingSpinner.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/components/PrivateRoute.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/PrivateRoute.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/components/Layout.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/Layout.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/components/Snowfall.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/Snowfall.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/components/Navbar.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/components/Navbar.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/contexts/AuthContext.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/contexts/AuthContext.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/main.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/main.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/index.css
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/index.css
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/vite-env.d.ts
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/vite-env.d.ts
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/App.css
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/App.css
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/src/App.tsx
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/src/App.tsx
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/public/vite.svg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/public/vite.svg
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/tsconfig.app.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/tsconfig.app.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/package.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/package.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/vite.config.ts
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/vite.config.ts
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/eslint.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/eslint.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/package-lock.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/package-lock.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/README.md
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/README.md
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/index.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/index.html
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/tsconfig.node.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/tsconfig.node.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/nginx.conf
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/nginx.conf
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/tailwind.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/tailwind.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/tsconfig.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/tsconfig.json
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/frontend/postcss.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/frontend/postcss.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/approve_me/docker-compose.yml
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/approve_me/docker-compose.yml
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/schemas/reference.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/schemas/reference.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/schemas/__init__.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/schemas/__init__.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/schemas/post.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/schemas/post.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/schemas/comment.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/schemas/comment.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/schemas/auth.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/schemas/auth.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/schemas/user.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/schemas/user.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/models/timestampmixin.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/models/timestampmixin.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/models/reference.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/models/reference.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/models/__init__.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/models/__init__.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/models/post.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/models/post.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/models/comment.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/models/comment.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/models/user.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/models/user.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/306fc3030c0f_reaction_removed.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/306fc3030c0f_reaction_removed.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/70c9008aa818_reference_added.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/70c9008aa818_reference_added.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/f90dfd20d9c1_title_for_posts.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/f90dfd20d9c1_title_for_posts.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/df3f46b543e4_polymorph_assoc_changed.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/df3f46b543e4_polymorph_assoc_changed.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/e693dfd65fad_reactions_change.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/e693dfd65fad_reactions_change.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/da684f961efc_user_model_lenght_changes.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/da684f961efc_user_model_lenght_changes.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/e941ae9a9cb5_some_changes.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/e941ae9a9cb5_some_changes.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/d9024b525ad0_initial_migrations.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/d9024b525ad0_initial_migrations.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/bef1e5ab0cbf_added_private_field_for_posts.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/bef1e5ab0cbf_added_private_field_for_posts.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/2ff7ad14c403_polymorph_assoc_for_comment.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/2ff7ad14c403_polymorph_assoc_for_comment.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/versions/baee2ae509db_added_timestamp_mixin.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/versions/baee2ae509db_added_timestamp_mixin.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/env.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/env.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/script.py.mako
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/script.py.mako
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/alembic.ini
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/alembic.ini
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/migrations/README
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/migrations/README
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/routes/meta_routes.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/routes/meta_routes.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/routes/__init__.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/routes/__init__.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/routes/user_routes.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/routes/user_routes.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/routes/post_routes.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/routes/post_routes.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/routes/response.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/routes/response.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/routes/auth_routes.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/routes/auth_routes.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/repositories/comment_repo.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/repositories/comment_repo.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/repositories/user_repo.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/repositories/user_repo.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/repositories/post_repo.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/repositories/post_repo.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/repositories/__init__.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/repositories/__init__.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/repositories/reference_repo.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/repositories/reference_repo.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/middleware/__init__.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/middleware/__init__.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/middleware/auth.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/middleware/auth.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/services/references_service.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/services/references_service.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/services/exception.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/services/exception.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/services/comments_service.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/services/comments_service.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/services/auth_service.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/services/auth_service.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/services/user_service.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/services/user_service.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/services/post_service.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/services/post_service.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/config.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/config.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/app.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/app.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/error_handler.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/error_handler.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/extensions.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/extensions.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/create_app.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/create_app.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/__init__.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/__init__.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/src/logging.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/src/logging.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/scripts/entry.sh
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/scripts/entry.sh
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/scripts/run_postgres.sh
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/scripts/run_postgres.sh
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/requirements.txt
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/requirements.txt
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/backend/wsgi.py
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/backend/wsgi.py
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/nginx.Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/nginx.Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/app.Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/app.Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/nginx.conf
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/nginx.conf
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/postgres.conf
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/postgres.conf
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/db.Dockerfile
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/db.Dockerfile
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/prod.env
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/prod.env
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker/dev.env
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker/dev.env
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/assets/blinbin.svg
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/assets/blinbin.svg
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/UserProfile.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/UserProfile.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/AddPostPage.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/AddPostPage.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/UsersPage.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/UsersPage.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/HallOfRespect.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/HallOfRespect.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/LoginPage.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/LoginPage.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/SignUpPage.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/SignUpPage.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/HomePage.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/HomePage.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/Tos.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/Tos.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/pages/ViewPostPage.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/pages/ViewPostPage.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/components/PostLayout.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/components/PostLayout.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/components/Navbar.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/components/Navbar.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/styles/main.css
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/styles/main.css
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/router/index.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/router/index.js
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/App.vue
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/App.vue
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/src/main.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/src/main.js
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/public/index.html
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/public/index.html
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/public/blinbin.ico
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/public/blinbin.ico
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/package.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/package.json
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/package-lock.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/package-lock.json
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/jsconfig.json
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/jsconfig.json
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/README.md
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/README.md
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/tailwind.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/tailwind.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/babel.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/babel.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/postcss.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/postcss.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/frontend/vue.config.js
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/frontend/vue.config.js
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/.dockerignore
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/.dockerignore
+    PHP, JavaScript, Python
+  ./Services.zip/blinbin/docker-compose.yml
+  /home/amir/CTF/MCTF/2024/Stud/final/.ai/Temp/3ff16619cbb34be0a10093ee09fc5cb7/PHP/php/dump/Services.zip/blinbin/docker-compose.yml
+    PHP, JavaScript, Python
+
